@@ -2929,7 +2929,7 @@
                 "我不要再醒來了。",
                 "我做不到。我真的做不到。",
                 "我生來就是為了受苦嗎？",
-                "那些傢伙會付出代價。",
+                "那些傢伙會得到報應。",
                 "住手...快住手...",
                 "我、就快要、崩潰了。",
                 "我需要嗨起來。現在。",
@@ -4361,7 +4361,7 @@
                 "我活下去的機會不存在。",
                 "我已經失敗了。",
                 "我會為這場失敗賠上性命。",
-                "那些披白袍的會付出代價。",
+                "那些披白袍的不會就這樣高枕無憂下去。",
                 "我太可悲了，注定失敗。",
                 "我只是血肉之軀...",
                 "多麼殘酷、無情的玩笑...",
@@ -5762,32 +5762,32 @@
         ],
         [
             {
-                "Item1": "there is some kind of weird machine thing... i think it disguised itself as one of the crates i keep finding around. it shot something at me... though, while it did hurt, it also cooled me down nicely... i cant wrap my mind around these things",
+                "Item1": "附近有種奇怪的機器...\n我想它偽裝成了平常找到的那種物資箱 發射了什麼東西在我身上...\n雖然是很痛 但是那也幫助我降了溫...\n我想不透那些東西是拿來幹嘛的",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "cold boom thing good",
+                "Item1": "冰冰ㄅㄠˋ炸東西很好",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "I brought over a small amount of these odd shifting cores from the previous biome I was in. It seems by letting them transform into a \"manifestation\", I am able to use them as a source of infinite nutrition and hydration, as one core turns into two upon manifesting. Quite useful.",
+                "Item1": "我從上一層地形帶了一些奇怪的變形核心。\n由於一個核心總是能分成兩個「具象體」，\n看起來我能刻意等待它們轉變，把它們當作無限的營養及水分來源。\n非常實用。",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "found some kind of weird alien looking ball out of some kind of drone... it said something about \"cryo\" on it? i didnt have a use for it so i threw it into a pool of those melted rocks... and it solidified them..?",
+                "Item1": "發現了某種無人機掉出的奇怪球體...\n上面寫著「急凍」？\n我想不到它有什麼作用就把它扔進附近的熔岩池底...\n結果熔岩被它凝固了...？",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my eyes afterwards without cleaning my hands. ow.",
+                "Item1": "我的腳掌一直被這些燒燙的石頭燙到。\n我很擔心燒傷會感染...不過 把那些亮橘色的藤蔓纏在傷口上能舒緩傷勢\n我犯了一個愚蠢的錯誤 沒先洗手就去摸眼睛\n好辣",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found an odd hole residing on the wall next to me. After peering inside, out of said hole came out an odd, dry tentacle, which proceeded to briefly attach itself to me, make some kind of sucking motion, then disappear back into its den. While I was quite afraid after that occurence, I appear to be fine.<>\nI saw no noticeable change in the \"Health Panel\", though it is entirely possible I have missed something. Whatever this creature is, it does not seem to pose any significant danger to passers by.",
+                "Item1": "我發現我身旁牆上有個奇怪的洞。\n往裡頭看了一眼，那個洞裡爬出了一條奇怪乾燥的觸手，\n接著觸手纏繞我的身體片刻，吸吮了幾下就縮回去洞裡了。\n雖然我感到有點驚恐，不過看起來沒有什麼大礙。<>\n我在「健康介面」上沒看到什麼引人注目的變化，不過也非常有可能只是我忽略了什麼。\n不論那是什麼樣的生物，它似乎對路過的人沒有嚴重的危害。",
                 "Item2": "",
                 "Item3": "milky"
             }
