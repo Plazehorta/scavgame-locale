@@ -1655,7 +1655,7 @@
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "音樂音量",
         "gamesetmusicvolumedsc": "",
-        "gamesetdronevolume": "環境音量",
+        "gamesetdronevolume": "情勢音量",
         "gamesetdronevolumedsc": "疼痛/疲憊/地震時的氛圍音效音量",
         "gamesettrackinterval": "音樂播放間隔",
         "gamesettrackintervaldsc": "樂曲之間的播放間隔（秒）",
@@ -4556,7 +4556,7 @@
                 "好累人。",
                 "該停了。",
                 "最好適度休息。",
-                "好吃力的工作。",
+                "好劇烈的活動。",
                 "真費勁。",
                 "專心。"
             ],
