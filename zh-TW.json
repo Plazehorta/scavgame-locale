@@ -4675,11 +4675,11 @@
             ],
             "fallscream": [
                 "..!",
-                "Hhhh!",
-                "Ahh!",
-                "Woah.",
-                "Huh.",
-                "That can't be good."
+                "嚇啊！",
+                "啊啊！",
+                "哇啊。",
+                "哼啊。",
+                "這下不妙。"
             ],
             "hitbycreature": [
                 "混帳生物！",
@@ -4757,8 +4757,8 @@
             "swingresponse": [
                 "夠、了！",
                 "停！",
-                "弱智！",
-                "穴居人!",
+                "這個智障！",
+                "山頂洞人!",
                 "停止抵抗！",
                 "趕快去死啦！",
                 "放棄吧！"
@@ -4766,39 +4766,39 @@
             "braindamaged": [
                 "...出什麼問題了？",
                 "金屬...的味道。這表示...嗯...",
-                "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
-                "The stained glass window had slivers of yellow, orange, and red.",
-                "Nothingness sees the sun.",
-                "Gasoline shoots pineapples with a machinegun.",
-                "The light at the end of the tunnel has its world rocked by trees.",
-                "Something is wrong with my cranium.",
-                "There is a metallic taste in my mouth",
-                "My head feels weird.",
-                "I am broken.",
-                "Who's Joe...?"
+                "阿桑西咪批哩歐搜肯西基夫西嘿福克米可。",
+                "彩繪玻璃窗有黃色、橘色、紅色裡的銀白色。",
+                "沒有新鮮事見過太陽。",
+                "汽油拿機關槍轟轟轟射出鳳梨。",
+                "隧道出口那道光的世界被樹木撼動著。",
+                "我的顱骨出了點問題。",
+                "嘴裡有股金屬味。",
+                "我的頭怪怪的。",
+                "我壞了。",
+                "Joe 哪位...？"
             ],
             "lastmoments": [
-                "Hnnh... Hmmnnhhh... Not... Good...",
-                "I...Hhhuh...",
-                "This... Is s-suboptimal...",
-                "FOCUS!",
-                "Nhh... Not... Ideal...",
-                "I do not... want to die...",
-                "Need... Help... Please...",
-                "Not....Nh... Not like this...",
-                "Save me.",
-                "H-h... Nhhh... hnnh... Ghhh...",
-                "I w-wish... To c-continue... Living...",
-                "I am not r-ready."
+                "嗯哼...嗯嗯呵...不...妙...",
+                "我...啊呃...",
+                "情況...不盡理想...",
+                "要專注！",
+                "嗯...不...理想...",
+                "我不想...死掉...",
+                "拜託...需要...救命...",
+                "不...呃...這樣不行...",
+                "讓我活。",
+                "呵...嗯呵...哼嗯...呃啊...",
+                "想、想...繼、繼續...活著...",
+                "還沒準、準備好。"
             ],
             "magicheal": [
-                "Hh!!!....Huh. Mm. I believe that was of no harm.",
-                "What... Was that?",
-                "Fascinating."
+                "哼！！....哼啊。嗯。我相信那沒有害處。",
+                "那...是怎樣？",
+                "真有意思。"
             ],
             "selfdestruct": [
-                "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
-                "Hello, beeping. What could this mean?"
+                "喔、喔，為什麼、怎麼會、這倒底！？給我停下來！這不是我應得的！你們這群穿白袍的禽獸！",
+                "咦，嗶嗶聲。這是什麼意思？"
             ],
             "tradermeetnormal": [
                 "向您問候。",
