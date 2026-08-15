@@ -5074,183 +5074,183 @@
         },
         {
             "seeGravel": [
-                "Hhrnnn... He-re...",
-                "Nnhh... G-ray...",
-                "Du-ne... Go...",
-                "...Why s-top..?",
-                "Nnnhh... Fo-od place...",
-                "Ar-ri-ve.",
-                "Co-ld..?"
+                "哼嗯...到了...",
+                "嗯...灰的...",
+                "Dune...出發...",
+                "...怎麼 停了...？",
+                "嗯哼...吃的 地方...",
+                "到 了。",
+                "會 冷...？"
             ],
             "eatGood": [
-                "Nngghhhrr! Tr-eat!!",
-                "Ngghraahhh! Du-ne li-ke..!",
-                "Hnnn...Hnnnrr...Go-od...",
-                "Fo-od... Li-ke...",
-                "Tas-te... Spe-ci-al... Nhhrr...",
-                "Nrr... Li-ke...",
-                "Wa-nt... Mo-re..."
+                "嗯！點心！",
+                "嗯啊啊！Dune 喜歡...！",
+                "哼...哼呃...喜歡...",
+                "吃的...喜歡...",
+                "嘗起來...特別...嗯呣...",
+                "哼...喜歡...",
+                "要...更多..."
             ],
             "eatMediocre": [
-                "Nnnhrrr... Fo-od...",
-                "Du-ne... Eat... Nrrhh...",
-                "Nhhhrr...Mmhhh...",
-                "Eat... Un-til... Nggrrhh... Fu-ll...",
-                "Fo-od...",
-                "Tas-ty...",
-                "Du-ne... Like eat... Ghhr..."
+                "嗯...食物...",
+                "Dune...吃...呃...",
+                "嗯呃...呣...",
+                "吃...到...嗯呃...飽飽...",
+                "食物...",
+                "好吃...",
+                "沙丘...喜歡吃...呃..."
             ],
             "eatBad": [
-                "Nhhrr... Nhhghhh...!",
-                "Nggrhaahhh... Fo-od...",
-                "Nngrr... Mo-re..?",
-                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+                "嗯...嗯呵...！",
+                "嗯嚇...食物...",
+                "嗯...還有...？",
+                "啊...Dune... 呃嚇...食物...嗯嚇..."
             ],
             "refuseEat": [
-                "...Woh?",
-                "Du-ne... Not... Grr..",
-                "Gghhrrrr!!",
-                "Ngghhhrraaghh!",
-                "Bad..."
+                "...喔？",
+                "沙丘...不要...咕呃...",
+                "嘎嘎嘎啊啊！！",
+                "嘎嘎啊啊啊！！",
+                "不好..."
             ],
             "tired": [
-                "Sle-eep... Wa-nt...",
-                "Du-ne... Nap...",
-                "S...Leep.",
-                "Eeee... Eeeeb..!",
-                "Sleeee-p.... Slee-peeee...",
-                "Mnnhhrr... Do-wn..."
+                "想...睡覺...",
+                "Dune...睏睏...",
+                "睡...覺覺。",
+                "咿...咿...！",
+                "要睡睡了...睡睡了...",
+                "嗯呃...躺好..."
             ],
             "verytired": [
-                "Ne-ed.... Nap...",
-                "Tiiii... Red...",
-                "Nnnhhh......Do-wn...",
-                "Lie... Do-wn...",
-                "Hhhrrnn... S...Sle-eeeep..."
+                "要...睡覺...",
+                "累累...了...",
+                "嗯......躺好...",
+                "躺躺...休息...",
+                "嗯...睡...睡覺覺..."
             ],
             "confused": [
-                "He-ad...",
-                "Gghhnn... Ghhrrrr...",
-                "Ww.... Wh-at....",
-                "Not... Kno-ww....",
-                "Con-fused....",
-                "Nnhhhrrr...",
-                "No... Du-ne... Wei-rd..... Ghhr...",
-                "Nnnnhhhh..."
+                "頭...",
+                "嘎嗯...嘎嘎...",
+                "怎...怎麼....",
+                "不...懂...",
+                "奇怪....",
+                "嗯呃哦...",
+                "討厭...Dune...怪怪......嘎哦...",
+                "嗯呃呃..."
             ],
             "wakeup": [
-                "Du-ne... Wake...",
-                "Hell-lo...",
-                "Hhrr..?",
-                "Mnnnhhh...",
-                "A-live...Ghrr...",
-                "Mmm..."
+                "Dune...醒了...",
+                "哈囉...",
+                "嘎...？",
+                "呣呃...",
+                "活著...嘎...",
+                "嗯..."
             ],
             "vomit": [
-                "Be-li... Fight...",
-                "Foo-d... Fight back...",
-                "Nhhgghhrrr... Ghhraghhh!",
-                "Hnnnghh..? Ghhr... W-hat...",
-                "Nhgghhrr... Du-ne...... Bad....",
-                "Ghhn... Bad... Eat..?"
+                "膽汁...反抗...",
+                "食物...反抗...",
+                "嗯哦呃...咕啊啊啊！",
+                "哼呃...？嘎...怎麼...",
+                "嗯噁...Dune......不好....",
+                "咕...吃的...不好...？"
             ],
             "vomitblood": [
-                "Du-ne... Fe-el baaad....",
-                "Guurhhh... Gnnnhh...?",
-                "Nnngghhhrr....?",
-                "Ggyiacckk! Grhrh... W-hat...",
-                "...Ngghrhh...",
-                "Grhrhaughh... Ghnnn... W-hy...",
-                "Nggh...du-ne...no...goo-d..."
+                "Dune...感覺不好....",
+                "咕呃呃...嗯...？",
+                "嗯呃哦哦...？",
+                "嘎啊！嘎呃...怎麼...",
+                "...嗯呃呃...",
+                "嘎哇...嗯...為什麼...",
+                "嗯...dune...不...好..."
             ],
             "full": [
-                "Du-ne fu-ll...",
-                "Ea-t much...!",
-                "Wa-it eat...",
-                "Du-ne no mo-re eat...",
-                "Ngghh... Fu-ll...",
-                "E-noff... Gnnh..."
+                "Dune 飽了...",
+                "吞太多...！",
+                "等等再吃...",
+                "Dune 不再吃了...",
+                "嗯...飽了...",
+                "夠多...呃..."
             ],
             "hungry": [
-                "Wan-t... Mo-re... Foo-d...",
-                "Du-ne...hungry...",
-                "Bite?",
-                "...Nggh... Wan-t...",
-                "Hun...ger...",
-                "*drooling*",
-                "Whe-re... Eat..?",
-                "Bi-te...",
-                "E-at..?",
-                "Du-ne...e-at..?"
+                "想要...更多...食物...",
+                "Dune...餓...",
+                "嚼嚼？",
+                "...嗯...想要...",
+                "餓...餓...",
+                "*流口水*",
+                "哪裡...吃的..？",
+                "嚼...",
+                "吃...？",
+                "Dune...能吃...？"
             ],
             "starving": [
-                "*drooling heavily*",
-                "Ne-ed... Eat!",
-                "Ngghhhhrrr! Foo-d!!!",
-                "NGHHRRHHH!! Whe-re eat!?",
-                "Nhghhrrr! Du-ne star-ve!!",
-                "NNGRHH!! FOO-D!! DU-NE!!"
+                "*口水直流*",
+                "要...吃的！",
+                "嘎啊啊呃呃！食物！！",
+                "啊嘎嘎！！哪裡能吃！？",
+                "嗯啊啊！Dune 餓壞了！！",
+                "嘎啊！！食物！給 DUNE！！"
             ],
             "thirsty": [
-                "S-lurp..?",
-                "Wa-ter...",
-                "Mmm... D-rink..?",
-                "Du-ne... Wa-ter...",
-                "Wan-t... Wa-ter..?",
-                "D-rink..."
+                "喝...？",
+                "水...",
+                "嗯...喝的...？",
+                "Dune...要水...",
+                "想要...水..？",
+                "喝..."
             ],
             "dehydrated": [
-                "Need... Wa-ter..!",
-                "Ngghh... D-ry...",
-                "Wa-ter...now!!",
-                "Gghrhhh... Wa-ter!!",
-                "Du-ne... P-arch..!",
-                "Du-ne... Wa-ter... NOW!",
-                "Gghhrraaaghh! D-rink! Now..!"
+                "需要...水...！",
+                "呃...好乾...",
+                "水...快！！",
+                "嘎啊啊...要水！！",
+                "Dune...好乾...！",
+                "Dune...要水...快！",
+                "哇嘎啊啊啊啊！喝的！快點...！"
             ],
             "limbmuscle": [
-                "<Limb> no mo-ve...",
-                "Du-ne <limb> stop wo-rk..?",
-                "Du-ne nee-d new <limb>.",
-                "<limb> no work...nnngrrhh...",
-                "<limb> is me-an..! Gghhrr!",
-                "Du-ne...<limb> hur-t..!"
+                "<Limb>動不了...",
+                "Dune <limb>不動了...？",
+                "Dune 要新的<limb>。",
+                "<limb>不能動...嗯哦呃...",
+                "<limb>好壞...！嘎啊啊！",
+                "Dune...<limb>痛...！"
             ],
             "limbinfected": [
-                "Du-ne <limb> war-m...",
-                "Sick..?",
-                "Nnnrr...<limb> loo-k weird..?",
-                "Du-ne <limb> r-ash..?",
-                "Hhnnn...<limb> fee-l weird..."
+                "Dune <limb>熱熱...",
+                "病了...？",
+                "哦...<limb>怪怪的...？",
+                "Dune <limb>長疹子...？",
+                "哼...<limb>怪怪的..."
             ],
             "limbskin": [
-                "<limb> yell-ow..?",
-                "Oooouur! <limb> is ba-d!",
-                "Du-ne hurt...",
-                "Du-ne <limb> hurt...",
-                "Ghhhrr...<limb> no goo-d..."
+                "<limb>黃掉了...？",
+                "喔喔！<limb>不好！",
+                "Dune 痛痛...",
+                "Dune <limb>痛痛...",
+                "嘎啊...<limb>不好..."
             ],
             "sad": [
-                "Sad.",
-                "Du-ne sad.",
-                "No s-mile...",
-                "Du-ne no s-mile...",
-                "Du-ne fee-l bad.",
-                "No ha-pi...",
-                "Du-ne not ha-pi..."
+                "傷心。",
+                "Dune 傷心",
+                "哭哭臉...",
+                "Dune 不開心...",
+                "Dune 覺得不好。",
+                "不快樂...",
+                "Dune 不快樂..."
             ],
             "gloomy": [
-                "Foo-d make fee-l better...",
-                "Foo-d make du-ne fee-l better...",
-                "Ve-ry saaad...",
-                "Ve-ry saaad du-ne...",
-                "Grrr..mind bad.",
-                "Grrhhh...du-ne mind bad...",
-                "Nhhhhrr...",
-                "Nnnngggrhhh... Ghhr...",
-                "Gghhhrr...",
-                "Du-ne not feel goo-d!",
-                "Not feel goo-d!"
+                "食物會讓感覺好起來...",
+                "食物會讓 dune 感覺好起來...",
+                "好傷心...",
+                "好傷心的 dune...",
+                "咕呃...心情不好。",
+                "嘎呃...dune 心情不好...",
+                "嗯呃...",
+                "嗯哦呃...嘎...",
+                "嘎呃呃...",
+                "Dune 感覺不好！",
+                "感覺不開心！"
             ],
             "depressed": [
                 "Woo... Whhhgrr... Nggghhhrrr...",
@@ -5262,18 +5262,18 @@
                 "Ngghrhhh! W-hy!?"
             ],
             "miserable": [
-                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
-                "NNGRHHHHHH! GGRRAAGGHHH!",
-                "GGHHRAGGHHH!! HAAATEEE!!!",
-                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
-                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
-                "AANNNGRRYY! GGRHHAANNGHHH!",
-                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
-                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
-                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+                "嗯啊啊啊啊！！嘎啊啊！",
+                "嘎啊啊啊啊！嘎嘎嘎啊啊！",
+                "嘎啊啊啊啊！！好恨！！！",
+                "嘎啊啊啊！！DUUNNNE！！！好恨！！！",
+                "啊啊啊啊啊嘎嘎嘎啊！！！嘎嘎啊啊啊！",
+                "憤怒！嘎嘎啊啊啊！",
+                "啊啊啊啊啊！DUNE...破壞！！！",
+                "嘎啊啊啊！恨啊！破壞！！！",
+                "嘎啊啊啊！DUNE 好恨！破壞！！！"
             ],
             "angeronitem": [
-                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+                "咕嗚哇啊啊啊！哼...嗯呵...Dune 破壞...朋友..."
             ],
             "refuse": [
                 "...",
@@ -5286,109 +5286,109 @@
                 "...",
                 "...",
                 "...",
-                "Ngrrhhh",
-                "Grrr...",
-                "Mnnhh...",
-                "*hiss*",
-                "No...",
-                "Du-ne...",
-                "Nnnnrrr...",
-                "Nnhghh..."
+                "嘎呃",
+                "呃...",
+                "哼呃...",
+                "*哈氣*",
+                "不要...",
+                "Dune...",
+                "哦嚇嚇...",
+                "嚇啊..."
             ],
             "bleeding": [
-                "Bl-eed...",
-                "Du-ne...bl-eed...",
-                "Du-ne...leak...",
-                "Leak...yellow...",
-                "Ye-llow...b-ad...",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
-                "Ngghhhrr! Du-ne hurt!",
-                "Grrhhhh! Du-ne n-eed help!",
-                "He-lp!! Du-ne!",
-                "Du-ne nee-d fix..!",
-                "Nnnrr... Du-ne ye-llow...",
-                "Nrr... B-lood...",
-                "Nrrhh... Du-ne...b-lood!!"
+                "流血...",
+                "Dune...流血...",
+                "Dune...漏了...",
+                "漏了...黃黃的...",
+                "黃黃...糟糕...",
+                "不好...流血...",
+                "不好...dune 痛...！",
+                "嚇呃呃！Dune 痛！",
+                "嘎呃呃！Dune 要幫忙！",
+                "拜託！幫助 Dune！",
+                "Dune 要綁傷口...！",
+                "嚇呃... Dune 黃黃...",
+                "呃...血...",
+                "呃嚇...Dune...血！！"
             ],
             "bleedingheavy": [
-                "Bl-eed!!",
-                "Du-ne bl-eed!! Mu-ch!!",
-                "Du-ne...leak!! No-w!!",
-                "F-low...yellow! Du-ne he-lp!!",
-                "Ye-llow!! B-ad!!!",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
-                "Ngghhhrrrnnghhhr!",
-                "Grrhhhhnnnghh!",
-                "He-lp!! Du-ne! N-OW!!!",
-                "Du-ne nee-d FIX..! H-ELP!!",
-                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
-                "Nrrgghhh!!! B-lood!!!",
-                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+                "流血！！",
+                "Dune 流血！！好多！！",
+                "Dune...漏了！好快！",
+                "流出...黃黃的！Dune 要幫助！！",
+                "黃黃！！不好！！",
+                "不好...流血...",
+                "不好...dune 痛...！",
+                "嗯嚇啊啊啊啊呃！",
+                "嘎啊啊啊啊！",
+                "拜託！！救救 Dune！快點！！",
+                "Dune 需要補起來...！救、救命！！",
+                "哼啊啊啊啊啊！！DUNE 太多黃黃了！！",
+                "哼呃呃！！！血！！！",
+                "嗯呃...！Dune 流血！好多！！！"
             ],
             "steponglass": [
-                "Du-ne gl-ass...",
-                "Cl-ear t-hing hurt du-ne!!",
-                "Du-ne hu-rt sh-arp!!!"
+                "Dune 玻璃...",
+                "拿掉讓 dune 痛痛的東西！！",
+                "Dune 被刺的痛痛！！！"
             ],
             "seecorpse": [
-                "Fr-ee foo-d?",
-                "Hhnnn..?",
-                "Ooo...",
-                "Mmm... Fr-ee..?",
-                "Mmmmrr... Fri-end..?",
-                "Hrnn!! Fri-end! Oh....",
-                "Mmm... Tas-ty... Fo-und..?",
-                "Du-ne... Fi-nd fri-end..?",
-                "Why fri-end no mo-ve..?",
-                "Food!",
-                "*drooling*",
-                "Aaarrh! Hel-lo?"
+                "可以吃的？",
+                "哼嗯...？",
+                "嗚...",
+                "哼...可以...？",
+                "呣...朋友...？",
+                "哼！！朋友！喔....",
+                "呣...找到...好吃的...？",
+                "Dune...找到朋友...？",
+                "朋友怎麼都不動...？",
+                "食物！",
+                "*垂涎*",
+                "啊啊呃！哈囉？"
             ],
             "seecorpsedesensitized": [
-                "Mmm!! Mo-re foo-d...",
-                "Hel-lo fri-end.",
-                "Cor-pse.",
-                "Fri-end hur-t?",
-                "Mo-re cor-pse.",
-                "Mo-re food for du-ne.",
-                "Hel-lo!!",
-                "Du-ne see mo-re cor-pse.",
-                "So mu-ch die!",
-                "Lot of foo-d!"
+                "嗯！！更多食物...",
+                "朋友你好。",
+                "屍體。",
+                "朋友痛？",
+                "又是屍體。",
+                "Dune 又有更多食物了。",
+                "你好！",
+                "Dune 看到更多屍體。",
+                "好多死掉了！",
+                "好多食物！"
             ],
             "seecorpsesuicidal": [
-                "Du-ne join fri-end...",
-                "Du-ne jealous...",
-                "Gghrr..."
+                "Dune 要跟朋友...",
+                "Dune 好羨慕...",
+                "嘎呃呃..."
             ],
             "cold": [
-                "Du-ne co-ld! Nee-d water...",
-                "Du-ne chi-ll...",
-                "Du-ne no li-ke co-ld.",
-                "Not li-ke co-ld."
+                "Dune 冷冷！要暖暖...",
+                "Dune 冰冰...",
+                "Dune 不喜歡冷。",
+                "不喜歡冷。"
             ],
             "warm": [
-                "Du-ne wa-rm.",
-                "Du-ne hot!",
-                "Du-ne nee-d cool do-wn.",
-                "Du-ne too wa-rm...",
-                "Wa-rm.",
-                "Hot..."
+                "Dune 熱熱。",
+                "Dune 好熱！",
+                "Dune 需要涼涼。",
+                "Dune 太熱...",
+                "太熱。",
+                "熱..."
             ],
             "hot": [
-                "Du-ne burn!",
-                "Du-ne too hot!!",
-                "Nee-d... Col-d...",
-                "Too.. Ho-t...",
-                "Nnhggh... Di..zzy!"
+                "Dune 烤焦了！",
+                "Dune 太熱了！！",
+                "要...冷冷...",
+                "太..熱了...",
+                "哼呃... 暈暈！"
             ],
             "exerted": [
-                "Nnnghh... S-pent...",
-                "Du-ne... Rest...",
-                "*huff*",
-                "Nnnrr.. Wo-rk... Much!"
+                "哼呃...沒力...",
+                "Dune...休息...",
+                "*大口喘氣*",
+                "呃..累...太累！"
             ],
             "exhausted": [
                 "Nhhgh... Re-st..!",
