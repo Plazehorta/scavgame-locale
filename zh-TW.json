@@ -4028,6 +4028,21 @@
                 "...啊，嗯，啊啊！不要，不要不要為什麼？？我做了什麼？！",
                 "...嗯啊...好喔...嗯...那就再、再見嘍..."
             ],
+            "endlessloop0": [
+                "...什、什麼...？什麼？為什麼？這是...我怎麼回到這裡了...？哼...到底怎麼回事..."
+            ], 
+            "endlessloop1": [
+                "...這跟我希望的不一樣...我不知道我還能怎麼辦...好吧。哎。就先當作無三不成禮？"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ], 
+            "endlessloop3": [
+                "好了！我走不出去的，而且好像...我覺得我好像開始習慣了。"
+            ],
+            "endlessloopdefault": [
+                "喔，繼續兜圈子囉..."
+            ],  
             "vomitresponse": [
                 "欸嗯...你還好吧...？"
             ],
@@ -4559,7 +4574,7 @@
                 "環境溫度有點高。"
             ],
             "hot": [
-                "我好熱。...不是那樣...",
+                "我好熱。",
                 "熱...太、熱、了。",
                 "這樣下去我會熱衰竭的...",
                 "我的體溫高的危險...",
@@ -4619,7 +4634,7 @@
                 "我好重。"
             ],
             "opiated": [
-                "這是鴉片類物質的效果。",
+                "這是類鴉片物質的效果。",
                 "哼...哼嗯...飄飄然。",
                 "覺得...不錯。很優。",
                 "很可以...",
@@ -4820,6 +4835,21 @@
             "selfdestruct": [
                 "喔、喔，為什麼、怎麼會、這倒底！？你給我住手！我才不配這種下場！你們這群披白袍的禽獸！",
                 "咦，嗶嗶聲。這是什麼意思？"
+            ],
+            "endlessloop0": [
+                "...哼。哼嗯...嗯呣...哼呣...好喔。跟...跟、跟我料想的，差很多。一定是我弄錯什麼了吧。我要再回去試一次。"
+            ],
+            "endlessloop1": [
+                "沒照著計劃走呢。可惡！那些披白袍的到底想要我怎樣！？浪費時間浪費精力。"
+            ],
+            "endlessloop2": [
+                "...真是令人心碎的結果。這場任務是注定失敗了。"
+            ],
+            "endlessloop3": [
+                "這完全超乎我的理解。真是考驗耐心。真叫人提不起勁。實在、實在太折磨人了。永遠達不到那裡。"
+            ],
+            "endlessloopdefault": [
+                "......*嘆氣*"
             ],
             "tradermeetnormal": [
                 "向您問候。",
@@ -5043,6 +5073,564 @@
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... He-re...",
+                "Nnhh... G-ray...",
+                "Du-ne... Go...",
+                "...Why s-top..?",
+                "Nnnhh... Fo-od place...",
+                "Ar-ri-ve.",
+                "Co-ld..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Tr-eat!!",
+                "Ngghraahhh! Du-ne li-ke..!",
+                "Hnnn...Hnnnrr...Go-od...",
+                "Fo-od... Li-ke...",
+                "Tas-te... Spe-ci-al... Nhhrr...",
+                "Nrr... Li-ke...",
+                "Wa-nt... Mo-re..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Fo-od...",
+                "Du-ne... Eat... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Eat... Un-til... Nggrrhh... Fu-ll...",
+                "Fo-od...",
+                "Tas-ty...",
+                "Du-ne... Like eat... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Fo-od...",
+                "Nngrr... Mo-re..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Not... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Bad..."
+            ],
+            "tired": [
+                "Sle-eep... Wa-nt...",
+                "Du-ne... Nap...",
+                "S...Leep.",
+                "Eeee... Eeeeb..!",
+                "Sleeee-p.... Slee-peeee...",
+                "Mnnhhrr... Do-wn..."
+            ],
+            "verytired": [
+                "Ne-ed.... Nap...",
+                "Tiiii... Red...",
+                "Nnnhhh......Do-wn...",
+                "Lie... Do-wn...",
+                "Hhhrrnn... S...Sle-eeeep..."
+            ],
+            "confused": [
+                "He-ad...",
+                "Gghhnn... Ghhrrrr...",
+                "Ww.... Wh-at....",
+                "Not... Kno-ww....",
+                "Con-fused....",
+                "Nnhhhrrr...",
+                "No... Du-ne... Wei-rd..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Wake...",
+                "Hell-lo...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "A-live...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Be-li... Fight...",
+                "Foo-d... Fight back...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... W-hat...",
+                "Nhgghhrr... Du-ne...... Bad....",
+                "Ghhn... Bad... Eat..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Fe-el baaad....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... W-hat...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... W-hy...",
+                "Nggh...du-ne...no...goo-d..."
+            ],
+            "full": [
+                "Du-ne fu-ll...",
+                "Ea-t much...!",
+                "Wa-it eat...",
+                "Du-ne no mo-re eat...",
+                "Ngghh... Fu-ll...",
+                "E-noff... Gnnh..."
+            ],
+            "hungry": [
+                "Wan-t... Mo-re... Foo-d...",
+                "Du-ne...hungry...",
+                "Bite?",
+                "...Nggh... Wan-t...",
+                "Hun...ger...",
+                "*drooling*",
+                "Whe-re... Eat..?",
+                "Bi-te...",
+                "E-at..?",
+                "Du-ne...e-at..?"
+            ],
+            "starving": [
+                "*drooling heavily*",
+                "Ne-ed... Eat!",
+                "Ngghhhhrrr! Foo-d!!!",
+                "NGHHRRHHH!! Whe-re eat!?",
+                "Nhghhrrr! Du-ne star-ve!!",
+                "NNGRHH!! FOO-D!! DU-NE!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Wa-ter...",
+                "Mmm... D-rink..?",
+                "Du-ne... Wa-ter...",
+                "Wan-t... Wa-ter..?",
+                "D-rink..."
+            ],
+            "dehydrated": [
+                "Need... Wa-ter..!",
+                "Ngghh... D-ry...",
+                "Wa-ter...now!!",
+                "Gghrhhh... Wa-ter!!",
+                "Du-ne... P-arch..!",
+                "Du-ne... Wa-ter... NOW!",
+                "Gghhrraaaghh! D-rink! Now..!"
+            ],
+            "limbmuscle": [
+                "<Limb> no mo-ve...",
+                "Du-ne <limb> stop wo-rk..?",
+                "Du-ne nee-d new <limb>.",
+                "<limb> no work...nnngrrhh...",
+                "<limb> is me-an..! Gghhrr!",
+                "Du-ne...<limb> hur-t..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> war-m...",
+                "Sick..?",
+                "Nnnrr...<limb> loo-k weird..?",
+                "Du-ne <limb> r-ash..?",
+                "Hhnnn...<limb> fee-l weird..."
+            ],
+            "limbskin": [
+                "<limb> yell-ow..?",
+                "Oooouur! <limb> is ba-d!",
+                "Du-ne hurt...",
+                "Du-ne <limb> hurt...",
+                "Ghhhrr...<limb> no goo-d..."
+            ],
+            "sad": [
+                "Sad.",
+                "Du-ne sad.",
+                "No s-mile...",
+                "Du-ne no s-mile...",
+                "Du-ne fee-l bad.",
+                "No ha-pi...",
+                "Du-ne not ha-pi..."
+            ],
+            "gloomy": [
+                "Foo-d make fee-l better...",
+                "Foo-d make du-ne fee-l better...",
+                "Ve-ry saaad...",
+                "Ve-ry saaad du-ne...",
+                "Grrr..mind bad.",
+                "Grrhhh...du-ne mind bad...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne not feel goo-d!",
+                "Not feel goo-d!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! W-hy!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! HAAATEEE!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
+                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
+                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*hiss*",
+                "No...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Bl-eed...",
+                "Du-ne...bl-eed...",
+                "Du-ne...leak...",
+                "Leak...yellow...",
+                "Ye-llow...b-ad...",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrr! Du-ne hurt!",
+                "Grrhhhh! Du-ne n-eed help!",
+                "He-lp!! Du-ne!",
+                "Du-ne nee-d fix..!",
+                "Nnnrr... Du-ne ye-llow...",
+                "Nrr... B-lood...",
+                "Nrrhh... Du-ne...b-lood!!"
+            ],
+            "bleedingheavy": [
+                "Bl-eed!!",
+                "Du-ne bl-eed!! Mu-ch!!",
+                "Du-ne...leak!! No-w!!",
+                "F-low...yellow! Du-ne he-lp!!",
+                "Ye-llow!! B-ad!!!",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "He-lp!! Du-ne! N-OW!!!",
+                "Du-ne nee-d FIX..! H-ELP!!",
+                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
+                "Nrrgghhh!!! B-lood!!!",
+                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+            ],
+            "steponglass": [
+                "Du-ne gl-ass...",
+                "Cl-ear t-hing hurt du-ne!!",
+                "Du-ne hu-rt sh-arp!!!"
+            ],
+            "seecorpse": [
+                "Fr-ee foo-d?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Fr-ee..?",
+                "Mmmmrr... Fri-end..?",
+                "Hrnn!! Fri-end! Oh....",
+                "Mmm... Tas-ty... Fo-und..?",
+                "Du-ne... Fi-nd fri-end..?",
+                "Why fri-end no mo-ve..?",
+                "Food!",
+                "*drooling*",
+                "Aaarrh! Hel-lo?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Mo-re foo-d...",
+                "Hel-lo fri-end.",
+                "Cor-pse.",
+                "Fri-end hur-t?",
+                "Mo-re cor-pse.",
+                "Mo-re food for du-ne.",
+                "Hel-lo!!",
+                "Du-ne see mo-re cor-pse.",
+                "So mu-ch die!",
+                "Lot of foo-d!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne join fri-end...",
+                "Du-ne jealous...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne co-ld! Nee-d water...",
+                "Du-ne chi-ll...",
+                "Du-ne no li-ke co-ld.",
+                "Not li-ke co-ld."
+            ],
+            "warm": [
+                "Du-ne wa-rm.",
+                "Du-ne hot!",
+                "Du-ne nee-d cool do-wn.",
+                "Du-ne too wa-rm...",
+                "Wa-rm.",
+                "Hot..."
+            ],
+            "hot": [
+                "Du-ne burn!",
+                "Du-ne too hot!!",
+                "Nee-d... Col-d...",
+                "Too.. Ho-t...",
+                "Nnhggh... Di..zzy!"
+            ],
+            "exerted": [
+                "Nnnghh... S-pent...",
+                "Du-ne... Rest...",
+                "*huff*",
+                "Nnnrr.. Wo-rk... Much!"
+            ],
+            "exhausted": [
+                "Nhhgh... Re-st..!",
+                "Gghrhrhh... Ti...re!!!",
+                "Ggrhhh...! S-top...",
+                "Ngghhhhrrrrrrhh...",
+                "*pant*"
+            ],
+            "freezing": [
+                "Du-ne... So... C-old...",
+                "Ngghhhrr... So c-old..!",
+                "Nnhh... N-nnhh... C-old...",
+                "S...So... C-old..! Ngr...",
+                "Fr-eeze...",
+                "Du-ne... Fr-eeze...",
+                "Nhhhrrr... Du-ne... T-oo c-old...",
+                "Ggrrrh..! T-oo c-old..."
+            ],
+            "emaciated": [
+                "Du-ne... T-oo thin...",
+                "Thin...",
+                "M...ust. Eat m-ore...",
+                "Du-ne... Th-in!!",
+                "T-oo... Thin..."
+            ],
+            "obese": [
+                "Du-ne eat ve-ry goo-d!",
+                "Nhhrr! Du-ne chub!",
+                "Du-ne... Fat..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...sh-ake..",
+                "Nnhrhhggh...b-ad!!",
+                "Du-ne...want mo-re...thing...",
+                "Nghhrr...! Bad..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *cough*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...hur-t...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...pa-in...<limb>...",
+                "Gggrhhnn...Du-ne...pa-in...",
+                "Gggrhhnn...Du-ne...pa-in...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? Fri-end bite?",
+                "Nggrch! E-vil thi-ng!!",
+                "GGRRGHHH! DU-NE KI-LL!!!!",
+                "GRRACK! LE-AVE DU-NE!",
+                "GGRHR! BI-TE BACK!",
+                "RGHGN! DU-NE REVENGE!",
+                "GACK! E-VIL!"
+            ],
+            "dirty": [
+                "Du-ne... Dir-ty..?",
+                "Du-ne need bat-h...",
+                "Du-ne feel smell.",
+                "Feel dirt.",
+                "Sme-ll smell.",
+                "Stin-ky.",
+                "Stink. Bad!",
+                "Too stin-k."
+            ],
+            "encumbered": [
+                "Du-ne strong!!",
+                "Du-ne carry mu-ch.",
+                "Carry mu-ch.",
+                "Lot of thing.",
+                "Du-ne strong...dune carry!",
+                "Du-ne heavy.",
+                "Du-ne wei-ght.",
+                "Hea-vy.",
+                "Weight...",
+                "Nrrr...car-ry lot.",
+                "Nrrr...du-ne car-ry lot."
+            ],
+            "watchlike": [
+                "Grrr. Met-al fri-end wei-rd!"
+            ],
+            "drillend": [
+                "Du-ne scare.",
+                "Sca-ry.",
+                "Lo-ud noi-se...",
+                "Du-ne smar-t!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! WH-AT!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! LO-UD!",
+                "AUGRH! NO-ISE!!!"
+            ],
+            "murderregret": [
+                "DU-NE WIN!",
+                "DU-NE BEAT EV-IL FRI-END!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STRROOOONG!!!!",
+                "DU-NE HUNT WEAK FRI-END!!!",
+                "DU-NE HUN-T FOO-D!!",
+                "GRRHCHH! WEEEAAK PR-EY!"
+            ],
+            "tradeemeet": [
+                "Du-ne find!!",
+                "Hel-lo!!",
+                "Du-ne gree-t!!",
+                "Hel-lo?",
+                "Mmmrrrrn...fri-end?",
+                "Fri-end?",
+                "Oooo! Fri-end!!",
+                "Foo-d?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Is anyone out there?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...sca-red...",
+                "Du-ne...nee-d...help!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! No!!!",
+                "Du-ne!!! Hel-p!!",
+                "W...wh-y...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....die...?",
+                "Lig-ht....co-me...",
+                "Fee-l...dar-k...",
+                "is...end..?",
+                "is.....over...",
+                "no...re-ady...",
+                "rnhh...du-ne...h-elp..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......a-gain?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne like chall-enge. Du-ne go aga-in!"
+            ],
+            "endlessloop2": [
+                "Oo! Aga-in? Mo-re place fin-d foo-d!"
+            ],
+            "endlessloop3": [
+                "Du-ne own ca-ve."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne win!"
+            ],
             "tradermeetnormal": [
                 "嗯...你、好...",
                 "歡迎...朋友...",
@@ -5350,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "我找到一把武器 是槍\n天啊...我根本不知道怎麼用...早知道訓練時就該更認真點...\n我完全不理解自己怎麼會被送來這種地方\n我毫無準備 卻沒被淘汰掉\n我差點就射中人 我本該打開保險的...我怎麼會知道啊\n別人看見你手持武器時往往會很慌張 所以最好藏起來別被看見\n別人會以為你會開槍 根本不知道你的意圖\n嗯 換作別人用槍指著我 我也會這麼想的",
+                "Item1": "我找到了...某種發射裝置 簡直要被它嚇死了... 直接打爆了前面那個奇怪的陷阱裝置... 很不習慣操作這種東西",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "我以前對人總像個混帳一樣 我現在很氣自己...\n現在我在這裡遇到的每一個倖存者都會把我趕走...\n唉 但願有誰能知道他們罵我罵得多狠...還想讓我挨爪子...\n我只能對自己說：好啦 對不起 媽的哩\n你沒意識到現在每條命都很寶貴嗎？我們根本沒有自相殘殺的餘地...\n我真希望自己是個更好的人...這都是我的錯",
+                "Item1": "大家都把我轟出維生艙 我以前的為人處事 他們都記得清清楚楚 我不該那樣的 這糟透了",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5395,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "這裡充滿著各式各樣遊蕩的生物。\n我是個和平主義者，所以每次遭遇我總是避戰逃跑——\n畢竟我可不曉得是誰會先殺死誰...\n更何況那些生物留下的傷口實在是痛得要命...\n我無法理解...我們的囚禁者可知道我們在此處承受著何種苦難？",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "有一次我跌了一跤，摔得非常非常嚴重。\n直接跌進一個洞裡，受傷的身體既爬不出去也挖不出去。\n但我靠這些廢金屬堆活下來了，我必須讓大家知道。\n\n是洞穴的牆壁！我找到的任何東西——即使是炸藥——似乎都無法破壞洞穴邊界。\n但邊界是不平整的，若足夠多的廢金屬堆疊在一起，塞進這些微小的縫隙，可做成立足點。\n當我在那個漆黑的洞裡血流如注時，\n我用收集來的廢金屬搭了一個類似樓梯的東西逃脫並尋找緊急物資。\n\n然而，我希望沒有人會陷入那種處境。也許你可以用這個技巧來防止自己受傷？\n誰知道這裡還有什麼其他可怕的東西等著我們。\n\n也許你會趕上我，然後我們可以分享一些生存策略。\n但願我能在某處迎接你。",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "我感到非常寂寞...於是決定轉移注意力：\n我找到某種迷你傳真機，把它砸開後抽出裡面的紙。\n接著拿根木棍，擠了顆發光的果實在上面。\n結果竟成了畫筆和畫布！\n要是你知道...我開始描繪一幅平行世界：\n我們自由自在，和平共處；沒有那些混蛋科學家...\n我感到非常喜悅，還忍不住哭了。\n\n但現在我得走了：肚子餓了！或許我們相遇時，我也能把你畫進去？\n我用這支「畫筆」用得越來越熟練了。我會試著教其他夥伴畫畫的...。",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -5541,7 +6119,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "我不行了 為什麼\n大家都死了\n我做不到\n我想讓一切停下來\n我做不到\n我想要自由\n憑什麼\n我沒辦法 我不想再看到這些 我看到太多糟糕的事 我實在受夠了\n我的腿完蛋了 被地雷炸爛了\n右手的傷勢也讓我痛苦不堪\n我想結束這一切\n這一切都好痛苦\n我不行了\n我等等就要扯出自己的動脈 變成一具屍體供人觀賞——\n假如我還沒被吃掉的話\n\n為一切心懷感恩 再見",
+                "Item1": "沒救了 再見了 抱歉了",
                 "Item2": "",
                 "Item3": "experiment"
             },
