@@ -1652,7 +1652,7 @@
         "pausegiveup5": "顱內爆破裝置已解除保險",
         "pausegiveup5dsc": "你的腦漿即將與腳下站的土地成為一體。",
         "pausegiveupdsc": "放棄生命",
-        "pauseexit": "退出",
+        "pauseexit": "離開",
         "pausesettings": "設定",
         "pausesettingsdsc": "因為遊戲太大聲了",
         "resettodefault": "重置設定",
@@ -6465,11 +6465,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[研究備忘錄，24XX-7-29]<>\n　　我的心血總算化作一個有用的樣本了！他現在被麻醉了，但是他可以在獸醫病房外自行呼吸。他也沒有那些讓其他前輩死去的致命胚胎發育變異跡象，而且也沒有生長成一團異樣肌肉組織。這是真正意義上首個的人造物種。我很清楚我沒有誤會，我造出了一個全新的種族。<>\n　　如同其他的試驗，黃色血液先注入了最新的穩定混合劑，然後再將其注入人類胚胎。結果符合期望，樣本大量借用人類的基因組，卻成了截然不同的生物。其爪子近似貓科，耳朵形似鳥類或爬行動物。顱骨能找到犬、狐、鼠那類的基因跡象，但其基因庫可能源自上千種物種。其眼睛甚至有些微的生物發光。\n更重要的是，其智力符合期望接近於人類的水準。這為我們開創了無限的可能！我會採取比較呵護的方式對待這一個個體，但我已經著手為破壞性測試展開複製了。\n　　我將我的創作定為──SAW-01。",
+            "Item1": "[研究備忘錄，24XX-7-29]<>\n　　我的心血總算化作一個有用的樣本了！他現在被麻醉了，但是他可以在獸醫病房外自行呼吸。他也沒有那些讓其他前輩死去的致命胚胎發育變異跡象，而且也沒有生長成一團異樣肌肉組織。這是真正意義上首個的人造物種。我很清楚我沒有誤會，我造出了一個全新的種族。<>\n　　如同其他的試驗，黃色血液先注入了最新的穩定混合劑，然後再將其注入人類胚胎。結果符合期望，樣本大量借用人類的基因組，卻成了截然不同的生物。其爪子近似貓科，耳朵形似鳥類或爬行動物。顱骨能找到犬、狐、鼠那類的基因跡象，但其基因庫可能源自上千種物種。其眼睛甚至有些微的生物發光。\n　　更重要的是，其智力符合期望接近於人類的水準。這為我們開創了無限的可能！我會採取比較呵護的方式對待這一個個體，但我已經著手為破壞性測試展開複製了。\n　　我將我的創作定為──SAW-01。",
             "Item2": ""
         },
         {
-            "Item1": "[研究備忘錄，24XX-12-24]<>\n　　經過了一而再，再而三的請求後，我開始著手更改 SAW-01 的基因組。他們對公司研究的利用價值遠超乎我的預期。本來我堅信他們欠缺生殖能力是他們完美基因的證據，但是我們的複製裝置已經無法趕上現在這麼龐大的需求了。我這才明白了老祖宗那套的優勢。\n　　就在我停止抑制性繁殖，這組基因便立即接受了這種變化。他們是雌雄同體的，第一種同時具備雌雄生殖器官的哺乳類動物。嚴格說來，他們沒有乳房，這樣算得上哺乳類嗎？我不確定這是源自地球，還是黃色血液的遺傳結果，總之這已經不是我們現有詞彙足以解釋的了。<>\n　　看起來他們對同類沒有互相吸引的驅動，而是傾向且具備能力自我繁殖。現在他們能夠以更低廉的成本迅速增殖了。",
+            "Item1": "[研究備忘錄，24XX-12-24]<>\n　　經過一而再，再而三的請求後，我開始著手更改 SAW-01 的基因組。他們對公司研究的利用價值遠超乎我的預期。本來我堅信他們欠缺生殖能力是他們完美基因的證據，但是我們的複製裝置已經無法趕上現在這麼龐大的需求了。我這才明白了老祖宗那套的優勢。\n　　就在我停止抑制性繁殖，這組基因便立即接受了這種變化。他們是雌雄同體的，第一種同時具備雌雄生殖器官的哺乳類動物。嚴格說來，他們沒有乳房，這樣算得上哺乳類嗎？我不確定這是源自地球，還是黃色血液的遺傳結果，總之這已經不是我們現有詞彙足以解釋的了。<>\n　　看起來他們對同類沒有互相吸引的驅動，而是傾向且具備能力自我繁殖。現在他們能夠以更低廉的成本迅速增殖了。",
             "Item2": ""
         },
         {
@@ -6481,35 +6481,35 @@
             "Item2": ""
         },
         {
-            "Item1": "[事件報告]\n[復原音訊逐字稿 B7-187545]\n[傳送埠：魚鷹]<>\n「我看過規格表了，但是哇塞……那也太大了吧。」\n「當然啦。畢竟那可是設計來傳送這棟建築物的耶。」\n「所以就直接這樣造了一整部？」\n「我們還在微調修正，但是這樣我們能確保大多數的貨物能經得起一點干擾。舉例來說……大氣的干擾。」\n<PDA 重新播放> 「啊對，就放那，把它擺在中間就行了！」\n「他們在送什麼東西？」\n「好，你能動手了。那是最近管理階層大肆炫耀的新能源。」\n「呃，長官……他們在置換槽底下真的沒問題嗎？」\n「當然啦，只要別把它打開就絕對沒問題。不過話說回來，還在開發階段時就有幾個測試用耗材被當場截成\n兩段。結果發現是啟動程序時產生的一些寄生電容足以觸發力場投射器，因為這樣我們才沒有派自己人上去\n負責營運。他們的另一段被送到了總部的員工化妝間。」\n「敢說那一定讓清潔工困惑了許久。」\n「黃色血液有夠難洗。到現在還看得到下面那邊的血跡。」<>\n<咚>\n<大型機械嘎嘎作響>\n「那是什麼聲音！」\n「那只是元質置換器啟動的聲音！主任一直嫌那個太耗電了，所以我們就別拖了！目的地？！」\n「呃……！設定完畢！」\n「槽底空間？！\n「淨空！」\n「指標器？！」\n「一切就緒！」\n「那就動手吧！」\n<警報大作> 「這是……！」\n「你做了什麼？！」\n「我沒……沒有啊！」\n「穩定器在……熔熔……解！立立……立……刻刻關……關掉！」\n「關關關……關……不掉……」\n<夾雜警報大作聲響>\n「怎麼……不不……不能！？」\n「快……<>\n[逐字稿結束]",
+            "Item1": "[事件報告]\n[還原音訊逐字稿 B7-187545]\n[傳送埠：魚鷹]<>\n「我有看過規格表了，但是哇塞……那未免也太大了吧。」\n「當然啦。畢竟那可是設計來傳送這棟建築物的耶。」\n「所以就直接這樣造了一整部？」\n「我們還在微調修正，但是這樣我們能確保大多數的貨物能經得起一點干擾。舉例來說……大氣的干擾。」\n<PDA 重新播放> 「啊對，就放那，把它擺在中間就行了！」\n「他們在送什麼東西？」\n「好，你能動手了。那是最近管理階層大肆炫耀的新能源。」\n「呃，長官……他們在置換槽底下真的沒問題嗎？」\n「當然啦，只要別把它打開就絕對沒問題。不過話說回來，還在開發階段時就有幾個測試用耗材被當場截成兩段。結果發現是啟動程序時產生的一些寄生電容足以觸發力場投射器，因為這樣我們才沒有派自己人上去負責營運。他們的另一段被送到了總部的員工化妝間。」\n「那清潔工看到一定很傻眼。」\n「黃色血液有夠難洗。到現在還看得到下面那邊的血跡。」<>\n<咚>\n<大型機械嘎嘎作響>\n「那是什麼聲音！」\n「那只是元質置換器啟動的聲音！主任一直嫌那個太耗電了，所以我們就別拖了！目的地？！」\n「呃……！設定完畢！」\n「槽底空間？！\n「淨空！」\n「指標器？！」\n「一切就緒！」\n「那就動手吧！」\n<警報大作> 「怎麼……！」\n「你做了什麼？！」\n「我沒……沒有啊！」\n「穩定器在……熔熔……解！立立……立……刻刻關……關掉！」\n「關關關……關……不掉……」\n<夾雜警報大作聲響>\n「怎麼……不不……不能！？」\n「快……<>\n[逐字稿結束]",
             "Item2": ""
         },
         {
-            "Item1": "[MEETING TRANSCRIPT AA-226213]\n[██████ █████'S OFFICE]\n[DATE: 6-06-25XX]<>\nDownsize...? What do you mean!\nExactly as it sounds, Dr. █████. We're cutting back on the SAW project.\nExcuse me, but that project is what made this company what it is today. SAW specimens are pivotal to all our research. You can't cancel it.\nDo you have any idea how much it costs for me to keep wiping your ass? Half our budget goes into security alone. If anyone caught wind of what we're doing here, we'd all be lynched! We'd be lucky if they only did a tenth of what you've done.<>\nI understand, sir, but our results---<>\nHave been stagnant for years. You've solved all the easy problems. You're just playing with them now, and I'm the one footing the bill.\nWe've been making steady progress on cancers, epigenetic drift, stem-cell exhaustion... true immortality! Isn't that worth the risk?\nIt's pointless if I won't be alive to see it! We'll keep some around, but teleportation...there's a technology for the public. It's been our goal since the beginning. Picture it Dr. █████, hundreds of human worlds, all connected with OUR machines. It would be like owning the gas, the cars, and the road. We'd become untouchable.\nIt sounds wonderful, sir... but there's so many of them, some with decades of investment. How am I supposed to simply \"downsize\" it?\nI hear you're already quite adept at killing them. Get creative.",
+            "Item1": "[會議逐字稿 AA-226213]\n[██████．█████的辦公室]\n[日期：25XX-6-06]<>\n縮編……？你這話是什麼意思！\n就是字面上的意思，█████博士。我們要縮小 SAW 計畫的規模。\n恕我直言，公司今天的面貌就是這個計劃一手造就的。SAW 樣本是我們一切研究的關鍵。不能就這樣說取消就取消。\n你知不知道幫你擦屁股花了我們多少資源？光是保全就用掉了我們一半的預算。萬一稍有一點消息走漏，我們還通通會被送去嚴刑拷打！他們只做你做過的事情的十分之一我們就該偷笑了。<>\n這我明白，但是我們的成果……<>\n停擺好幾年了。簡單的問題你都解決了。現在你只是在把玩他們而已，結果掏的是我的口袋。\n我們在好幾個領域都有穩健的進展：癌症、表觀遺傳漂變、幹細胞耗竭……長生不老！難道這都不值得冒這點風險嗎？\n假如我活不到那天，這一切都是屁！我們可以部分保留，至於傳送技術……那才是要公諸於世的科技。那才是我們的初衷。你想想喔，█████博士，數以百計的人類世界，全都由*我們*的的機器連結。那就像是坐擁了全世界的石油、汽車以及道路。我們能夠凌駕一切。\n那理想是很美好……但是他們數目太龐大了，有的還投資了幾十年。你說我怎麼能想縮編就縮編？\n聽說你們玩出了不少弄死他們的花招？自己看著辦。",
             "Item2": ""
         },
         {
-            "Item1": "[GROUP CHAT - MENTICIDE DPT.]\n      - New Message -<>\n\nHas anyone seen my coffee cup? It's the one that says, \"I'm just here for the free radicals.\" If you find it, please bring it to my office. Thanks. ",
+            "Item1": "[聊天群組 - 洗腦部]\n      - 新訊息 -<>\n\n有人看到我的咖啡杯嗎？杯子上寫「我為自由基而來」的那個，有看到的話，幫我拿到我的辦公室，謝謝。 ",
             "Item2": ""
         },
         {
-            "Item1": "Subject: Regarding Your Last Message\nTo: Dr. ██████████\nFrom: Human Resources<>\n\nThis is to inform you that your last message,\n\n    \"Which one of you FUCKERS teleported half an Experiment into the GODDAMN BATHROOM?! I'm sitting here minding my own FUCKING business and a BLEEDING SEVERED TORSO FALLS ON MY HEAD. It was still flailing around and getting its nasty blood EVERYWEHRE! I'm fucking COVERED IN IT! DISGUSTING!!! When I find out who's responsible I'm going to throw the other half into your OFFICE!\"\n\nwas determined to be inappropriate and inconsistent with our standards for professional communication. We expect all employees to communicate with colleagues respectfully and professionally.\n\nPlease ensure that future communications are consistent with these expectations.",
+            "Item1": "主旨：關於你上一則訊息\n收件者：██████████博士\n寄件者：人力資源部<>\n\n在此通知您，您的上一則訊息：\n\n　　「你們是哪一個低能兒拿傳送器把被切成半隻的 Experiment 送進廁所的？！媽的我好端端的坐在這，結果莫名其妙來了一具血淋淋的上半身從天而降砸在我頭上。他還在那邊奮命垂死掙扎，搞得血噴的到處都是！媽的我就被噴得滿身都是！靠北噁心！！要是我找到是誰幹的，我就把他的另一半丟進你的辦公室裡去！」\n\n被認定不適當且不符合我們的專業溝通標準。我們期盼全體雇員能以敬業及專業的態度與同事溝通。\n\n請確保日後的溝通可以達到上述標準。",
             "Item2": ""
         },
         {
-            "Item1": "[PERSONAL MEMO]\n[DR. █████, 2-11-25XX]<>\n\nDownsize... Downsize, he says!\nDoes he not understand? Does he have no appreciation for what the SAW program has done for this company? What I'VE done for this company? Our research isn't stagnant. I was just about to finish SAW-13. The right specimen would get us back on track.\n\nI won't exterminate them, but I can make him happy.<>\n\nThe planet from which they take their blood. It's their home as much as Earth. In a way, they always belonged there. I'll call it an extended experiment, an observation of how they behave away from their masters. It costs us nothing, it's free from prying eyes, and if we need more, we'll simply take them back. Everything is perfect.\n\nGo forth, then. Multiply. Hold hands, or cover them in your neighbor's blood. \nRepeat our mistakes. Run wild and free. But remember, you're all my children, and you will never be free from me.",
+            "Item1": "[個人備忘錄]\n[█████博士，25XX-11-2]<>\n\n　　縮編……他竟敢談縮編！\n　　他懂不懂啊？他就對整個 SAW 計畫對公司的成就這麼不知惜福啊？看不到我對公司有多大的貢獻啊？我們的研究沒有遲滯不前。我就快要完成 SAW-13 了。只要弄到了對的樣本一定就能讓我們重振旗鼓。\n\n　　我不會銷毀他們，但是能讓他開心。<>\n\n　　他們取血的那顆星球。就和地球一樣是他們的家鄉。某方面來看，他們本來就是屬於那裡的。我會說這是一場延伸的實驗，為了觀察他們脫離掌握後的行為。這毫無成本，但是沒有人會在後面指指點點，而且假如我們有需要，只要把他們帶回來就行了。一切都是如此完美。\n\n　　你們去吧。繁殖吧。相親相愛或自相殘殺吧。 \n　　重蹈我們的覆轍吧。自由奔放吧。但都給我記好了，你們都是我的孩子，永遠別想擺脫我的掌控。",
             "Item2": ""
         },
         {
-            "Item1": "SUBJECT: It's a matter of security!\nFROM: Operations Oversight\nTO: All Personnel<>\n\nPlease stop saving local copies of internal emails to your personal devices. I understand that the employee email portal is annoying to use, but this is a major security risk! We've located several lost devices and almost all of them contained some sort of classified information. What would you do if one of these ended up in the wrong hands? \n\nPlease be more careful in the future!\nOperations Oversight",
+            "Item1": "主旨：攸關安全疑慮！\n寄件者：營運監督\n收件者：全體同仁<>\n\n請停止將內部信件在您的個人裝置上進行備份。我理解雇員信箱入口頁面很難用，但是這是嚴重的安全風險！我們尋獲了大量的遺失裝置，其中幾乎都儲存了一些機密的資訊。要是到了不對的人手上，你要怎麼辦？\n\n請大家以後多留意！\n營運監督",
             "Item2": ""
         },
         {
-            "Item1": "[Neurologic Hardware Division]\n[DATE: 11-10-25XX]\n[LEAD ENGINEER ████████]<>\n\nWe've completed the latest prototype of the Digital Interoception Device (or the \"Health HUD\" as some of my engineers have taken to calling it.) After collaborating with the folks from the SAW Project, we've made several breakthrough advancements. The 'spinal delamination' issue has been almost entirely eliminated, and I dare say we are ready for human installment!<>\n\nThe actual device is a chip implanted just below the cerebellum and affixed to the medulla oblongata via conductive nanofilaments. It functions by intercepting the various visceroceptive and somatosensory signals used subconsciously for bodily regulation and amplifying them into the visual cortex via a convenient user interface.\n\nThe implant does not require a battery and instead harvests energy from circulating metabolites, so it should work indefinitely unless it's damaged somehow. With this, any user can check their exact heart rate, oxygen exchange, and internal temperature as accurately as any machine, as well as things like muscle and skin irritation and inflammation. The possibilities are endless!",
+            "Item1": "[神經硬體部門]\n[日期：25XX-10-11]\n[首席工程師 ████████]<>\n\n　　我們完成了最新的「數位內感受裝置」（或是我們有些工程師習慣稱作「健康 HUD」）的原型機。經過與 SAW 計畫的同仁合作，我們做出了許多突破性的進展。「脊椎剝離」的問題幾乎已經完全解決了，我還敢說我們已經準備好安裝在人類身上了！<>\n\n　　那個裝置實際上是一片安裝在小腦之下利用導電奈米絲附著在延腦之上的晶片。它的功能是透過攔截各種身體調節在潛意識中發出的內臟感覺與身體感覺訊號，放大後利用一個方便的使用者介面上作出一個視覺化的呈現。\n\n　　這個植入裝置不需要使用電池，其運行能量取自循環代謝，所以只要沒有什麼原因受損是可以永久運作的。有了它，任何使用者都能像是機器一樣精準檢查他們確切的心率、氧氣交換、體內溫度，另外還能看肌肉與皮膚的疼痛與發炎。有無窮無盡的可能！",
             "Item2": ""
         },
         {
-            "Item1": "SUBJECT: RE: Questions?\nFROM: ████████████\nTO: Dr. █████<>\n\nI am writing to inform you that all of the SAW subjects responsible for last week's riot have already been terminated, so I'm afraid you won't be able to get your questions in.\n\nI saw to it that they were interviewed thoroughly, and they confessed that everything they knew came from that SAW-03, so the mystery is solved. Most of the scientists they killed were their own handlers, and they admitted to targeting them on purpose. I don't need a degree in psychology to guess why, so I doubt you'd accomplish much, but feel free to collect their brains.<>\n\nSecurity will be tightened up so hopefully this mess won't happen again.\n\nRegards,\nSecurity Chief ████████████",
+            "Item1": "主旨：回覆：借問一些問題？\n寄件者：████████████\n收件者：█████博士<>\n\n此封信件是要告知您，所有參與上週那場暴動的 SAW 個體皆已遭到銷毀，所以你的問題恐怕是來不及提出了。\n\n我有確保他們都有接受全盤審問，他們也都坦承他們所知道的一切都出自那個 SAW-03，所以謎題解開了。大多數遇害的科學家都是他們的培訓員，他們也坦承蓄意針對這些人。我不用心理學的學位也能猜得出個所以然，所以我不覺得你還能找到進一步的線索，但還是歡迎你過來取他們的大腦。<>\n\n之後會強化保全系統，希望這種亂象以後不會再發生。\n\n致意\n安全主管 ████████████",
             "Item2": ""
         },
         {
