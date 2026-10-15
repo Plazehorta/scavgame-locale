@@ -4097,19 +4097,19 @@
             ],
             "endlessloop0": [
                 "…什…什麼…？什麼？為什麼？這是…我怎麼回到這裡了…？哼…到底怎麼回事…"
-            ], 
+            ],
             "endlessloop1": [
                 "…這跟我希望的不一樣…我不知道我還能怎麼辦…好吧。哎。就先當作無三不成禮？"
             ],
             "endlessloop2": [
                 "<spoiler>"
-            ], 
+            ],
             "endlessloop3": [
                 "好了！我走不出去的，而且好像…我覺得我好像開始習慣了。"
             ],
             "endlessloopdefault": [
                 "喔，繼續兜圈子囉…"
-            ],  
+            ],
             "vomitresponse": [
                 "欸嗯…你還好吧…？"
             ],
@@ -6473,7 +6473,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[個人備忘錄]\n[██████████博士，24XX-05-6]<>\n　　我想不透。我在███████的資歷可追溯到那場事件之前。過去的我們總是窮盡千方百計，打破砂鍋問到底，██個年頭後的現在，我們如法炮製了許多早已推翻的實驗，卻能得出十分成功的結果。就好像從那一刻起有什麼變了，好比是某種宇宙中的隱藏因子。\n\n　　這成了現今的定律。<>\n\n　　現在我們首次與真正實現對點空間傳送只差咫尺的距離，對此的認知反而卻不如以往。我就怕我們插手了某種超乎我們理解範圍的事物。會不會當初我們發現的那團肉，實際上是一顆中子星的一小部分？\n\n　　當然如此巨大的重力能打壞我們的對點瞄準，但是我們豈能理解牽了浩瀚宇宙的一髮，會怎樣「動全身」？好比一部最先進的電腦，交到原始人手裡就只會被當成暖氣機來使用。會不會我們的作法實際上展現了同等的無知……？也許我們不過就只是一群意外翻出被老爸藏起來的槍的小鬼頭。",
+            "Item1": "[個人備忘錄]\n[██████████博士，24XX-05-6]<>\n　　我想不透。我在███████的資歷可追溯到那場事件之前。過去的我們總是窮盡千方百計，打破砂鍋問到底，██個年頭後的現在，我們如法炮製了許多早已推翻的實驗，卻能得出十分成功的結果。就好像從那一刻起有什麼變了，好比是某種宇宙中的隱藏因子。\n\n　　這不符合常理。<>\n\n　　現在我們首次與真正實現對點空間傳送只差咫尺的距離，對此的認知反而卻不如以往。我就怕我們插手了某種超乎我們理解範圍的事物。會不會當初我們發現的那團肉，實際上是一顆中子星的一小部分？\n\n　　當然如此巨大的重力能打壞我們的對點瞄準，但是我們豈能理解牽了浩瀚宇宙的一髮，會怎樣「動全身」？好比一部最先進的電腦，交到原始人手裡就只會被當成暖氣機來使用。會不會我們的作法實際上展現了同等的無知……？也許我們不過就只是一群意外翻出被老爸藏起來的槍的小鬼頭。",
             "Item2": ""
         },
         {
@@ -6493,7 +6493,7 @@
             "Item2": ""
         },
         {
-            "Item1": "主旨：關於您上一則訊息\n收件者：██████████博士\n寄件者：人力資源部<>\n\n在此通知您，您的上一則訊息：\n\n　　「你們是哪一個低能兒拿傳送器把被切成半隻的 Experiment 送進廁所的？！媽的我好端端的坐在這，結果莫名其妙來了一具血淋淋的上半身從天而降砸在我頭上。他還在那邊奮命垂死掙扎，搞得血噴的到處都是！媽的我就被噴得滿身都是！靠北噁心！！要是我找到是誰幹的，我就把他的另一半丟進你的辦公室裡去！」\n\n被認定不適當且不符合我們的專業溝通標準。我們期盼全體雇員能在與同事溝通時秉持專業與風度。\n\n請確保日後的溝通可以達到上述標準。",
+            "Item1": "[主旨] 關於您上一則訊息\n[寄件者] 人力資源部\n[收件者] ██████████博士<>\n\n在此通知您，您的上一則訊息：\n\n　　「你們是哪一個低能兒拿傳送器把被切成半隻的 Experiment 送進廁所的？！媽的我好端端的坐在這，結果莫名其妙來了一具血淋淋的上半身從天而降砸在我頭上。他還在那邊奮命垂死掙扎，搞得血噴的到處都是！媽的我就被噴得滿身都是！靠北噁心！！要是我找到是誰幹的，我就把他的另一半丟進你的辦公室裡去！」\n\n被認定不適當且不符合我們的專業溝通標準。我們期盼全體雇員能在與同事溝通時秉持專業與風度。\n\n請確保日後的溝通可以達到上述標準。",
             "Item2": ""
         },
         {
@@ -6501,7 +6501,7 @@
             "Item2": ""
         },
         {
-            "Item1": "主旨：資安疑慮！\n寄件者：營運監督\n收件者：全體同仁<>\n\n請停止將內部信件在您的個人裝置上進行備份。我理解雇員信箱入口頁面很難用，但是這是嚴重的安全風險！我們尋獲了大量的遺失裝置，其中幾乎都儲存了一些機密的資訊。要是到了不對的人手上，你要怎麼辦？\n\n請大家以後多留意！\n營運監督",
+            "Item1": "[主旨] 資安疑慮！\n[寄件者] 營運監督\n[收件者] 全體同仁<>\n\n請停止將內部信件在您的個人裝置上進行備份。我理解雇員信箱入口頁面很難用，但是這是嚴重的安全風險！我們尋獲了大量的遺失裝置，其中幾乎都儲存了一些機密的資訊。要是到了不對的人手上，你要怎麼辦？\n\n請大家以後多留意！\n營運監督",
             "Item2": ""
         },
         {
@@ -6509,7 +6509,7 @@
             "Item2": ""
         },
         {
-            "Item1": "主旨：回覆：借問一些問題？\n寄件者：████████████\n收件者：█████博士<>\n\n此封信件是要告知您，所有參與上週那場暴動的 SAW 個體已盡數銷毀，所以你的問題恐怕是來不及提出了。\n\n我有確保他們都有接受全盤審問，他們也都坦承他們所知道的一切都出自那個 SAW-03，所以謎題解開了。大多數遇害的科學家都是他們的培訓員，他們也坦承蓄意針對這些人。我不用心理學的學位也能猜得出個所以然，所以我不覺得你還能找到進一步的線索，但還是歡迎你過來取他們的大腦。<>\n\n之後會強化保全系統，希望這種亂象以後不會再發生。\n\n致意\n安全主管 ████████████",
+            "Item1": "[主旨] 回覆：借問一些問題？\n[寄件者] ████████████\n[收件者] █████博士<>\n\n此封信件是要告知您，所有參與上週那場暴動的 SAW 個體已盡數銷毀，所以你的問題恐怕是來不及提出了。\n\n我有確保他們都有接受全盤審問，他們也都坦承他們所知道的一切都出自那個 SAW-03，所以謎題解開了。大多數遇害的科學家都是他們的培訓員，他們也坦承蓄意針對這些人。我不用心理學的學位也能猜得出個所以然，所以我不覺得你還能找到進一步的線索，但還是歡迎你過來取他們的大腦。<>\n\n之後會強化保全系統，希望這種亂象以後不會再發生。\n\n致意\n安全主管 ████████████",
             "Item2": ""
         },
         {
@@ -6521,7 +6521,7 @@
             "Item2": ""
         },
         {
-            "Item1": "主旨：我的超強新發明\n收件者：首席工程師 ████████\n寄件者：████博士<>\n\n它就叫做：嚴刑峻罰機！\n\n我取用了你們在執行的專案的腦內植入科技，不過我的不是接收神經脈衝，而是發射。經過了一些調整，這它能讓你感受到你的身體有能力感受到的最巨大痛苦！我本來還設想測試對象大概遲早還是會開始麻木，但實際上是完全不會！\n\n這在刑法體系上能發揮有莫大的作用。一直以來我們都很難判斷犯人有沒有感受到慘痛的教訓。那再也不是問題啦！我在 SAW 身上做了無數場測試，很顯然即使是整個實驗組中最頑劣的個體嚴刑峻罰機都能展現一流的矯正效果。 \n\n能不能幫我盡快送去量產？",
+            "Item1": "[主旨] 我的超強新發明\n[寄件者] ████博士\n[收件者] 首席工程師 ████████<>\n\n它就叫做：嚴刑峻罰機！\n\n我取用了你們在執行的專案的腦內植入科技，不過我的不是接收神經脈衝，而是發射。經過了一些調整，這它能讓你感受到你的身體有能力感受到的最巨大痛苦！我本來還設想測試對象大概遲早還是會開始麻木，但實際上是完全不會！\n\n這在刑法體系上能發揮有莫大的作用。一直以來我們都很難判斷犯人有沒有感受到慘痛的教訓。那再也不是問題啦！我在 SAW 身上做了無數場測試，很顯然即使是整個實驗組中最頑劣的個體嚴刑峻罰機都能展現一流的矯正效果。 \n\n能不能幫我盡快送去量產？",
             "Item2": ""
         },
         {
@@ -6529,7 +6529,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[營運監督]\n[事件報告，案件 ID：YVLVH4EB]\n[證據 #54]\n<>\n我不能再繼續這樣下去了。\n我們在這邊做的是傷天害理的事。\n\n我在█████████事件之前就已經是這裡的人了。以前不是這樣子的。現在這裡要的只有喪心病狂的人，而我其實也沒好到哪去。我和大家一樣任意使用 SAW 樣本。一日千里的研究進展實在太令人欲罷不能了。我一直說服著自己這都是為了造福人類、他們跟我們不一樣。<>\n\n在做長期的植入物測試時我被指派到了一隻 SAW-01。本來我也很冷漠，但對 SAW-01 而言那卻是一天中最美好的時刻。他不曾抱怨。那樣大概持續了一年。檢查時的聊天逐漸變得稀鬆平常。我開始編理由延長測試期。在那一刻我才知道原來 Experiment 可以露出笑容。他是不聰明，但是他會主動在我的辦公室幫忙雜務。<>\n\n我就這樣和他共處了十四年的光陰。有一天，他被帶走了。我已經竭盡所能延長研究。我盡力了，我真的真的盡力了。我呆坐在辦公室裡，在名冊上反覆按下重新整理關注那一隻 SAW，然後那一天終究到來。他的 ID 狀態被變成了死亡。我總算按奈不住塵封已久的人性，任其將我的理智生吞活剝，掀起狂風暴雨。<>\n\n這台 EPDA 裡面儲存著所有能夠擊垮公司的必要證據。  \n我祈禱這個願望得以實現，資料能順利抵達記者的手上。\n\n我真的很對不起你，Mason。\n我真的好對不起你……\n<>\n> 更新案件狀態：<>已解決",
+            "Item1": "[營運監督]\n[事件報告，案件 ID：YVLVH4EB]\n[證據 #54]\n<>\n我不能再繼續這樣下去了。\n我們在這邊做的是傷天害理的事。\n\n我在█████████事件之前就已經是這裡的人了。以前不是這樣子的。現在這裡要的只有喪心病狂的人，而我其實也沒好到哪去。我和大家一樣任意使用 SAW 樣本。一日千里的研究進展實在太令人欲罷不能了。我一直說服著自己這都是為了造福人類、他們跟我們不一樣。<>\n\n在做長期的植入物測試時我被指派到了一隻 SAW-01。本來我也很冷漠，但對 SAW-01 而言那卻是一天中最美好的時刻。他不曾抱怨。那樣大概持續了一年。檢查時的聊天逐漸變得稀鬆平常。我開始編理由延長測試期。在那一刻我才知道原來 Experiment 可以露出笑容。他是不聰明，但是他會主動在我的辦公室幫忙雜務。<>\n\n我就這樣和他共處了十四年的光陰。有一天，他被帶走了。我已經竭盡所能延長研究。我盡力了，我真的真的盡力了。我呆坐在辦公室裡，在 SAW 的名冊上反覆按下重新整理，然後那一天終究到來。他的 ID 狀態被變成了死亡。我總算按奈不住塵封已久的人性，任其將我的理智生吞活剝，掀起狂風暴雨。<>\n\n這台 EPDA 裡面儲存著所有能夠擊垮公司的必要證據。  \n我祈禱這個願望得以實現，資料能順利抵達記者的手上。\n\n我真的很對不起你，Mason。\n我真的好對不起你……\n<>\n> 更新案件狀態：<>已解決",
             "Item2": ""
         },
         {
@@ -6537,11 +6537,39 @@
             "Item2": ""
         },
         {
-            "Item1": "SUBJECT: Those New SAWs\nTO: Dr. ██████\nFROM: Head of Applied Ballistics, Dr. █████████<>\n\nI swear, Dr. █████'s team is just trying to annoy me. They know how much I hate bugs! It's got to be on purpose. I asked for a sturdier specimen for our testing, and they made me these SAW-12s. They're sturdy alright. They're also impossible to control and incredibly stupid. I know it's impossible to influence the fine details of these things but surely they could've done better than this.<>\n\nThey do have one use, however. They're great at disposing of left over body parts from our munitions testing.",
+            "Item1": "[SUBJECT] Those New SAWs\n[FROM] Head of Applied Ballistics, Dr. █████████\n[TO] Dr. ██████<>\n\nI swear, Dr. █████'s team is just trying to annoy me. They know how much I hate bugs! It's got to be on purpose. I asked for a sturdier specimen for our testing, and they made me these SAW-12s. They're sturdy alright. They're also impossible to control and incredibly stupid. I know it's impossible to influence the fine details of these things but surely they could've done better than this.<>\n\nThey do have one use, however. They're great at disposing of leftover body parts from our munitions testing.",
             "Item2": ""
         },
         {
-            "Item1": "SUBJECT: Accolades For You!\nTO: Eng. ████████\nFROM: Head of Teleportation, ████████<>\n\nWonderful idea using using the public's waste for calibration testing! We're racking up some serious credit with Uncle Sam for that stunt. Not only that, it's an incredible way of disposing of our more... sensitive objects. We're killing two birds with one stone. Or two Experiments with one syringe, Eh?\n\nAs for the issue with the targeting. Who cares if it's strangely attracted to that planet? If that's where it wants to go, why should we argue? It's not like there's any environmental nutjobs to catch us up there.<>\n\nSpeaking of, keep a close eye on the waste. Operations Oversight caught some spy tech inside a bunch of depleted fuel rods of all things! Probably a competitor trying to learn about our teleporter tech, but still, can't risk our other interests getting out.",
+            "Item1": "[SUBJECT] Accolades For You!\n[FROM] Head of Teleportation, ████████\n[TO] Eng. ████████<>\n\nWonderful idea using the public's waste for calibration testing! We're racking up some serious credit with Uncle Sam for that stunt. Not only that, it's an incredible way of disposing of our more... sensitive objects. We're killing two birds with one stone. Or two Experiments with one syringe, Eh?\n\nAs for the issue with the targeting. Who cares if it's strangely attracted to that planet? If that's where it wants to go, why should we argue? It's not like there's any environmental nutjobs to catch us up there.<>\n\nSpeaking of, keep a close eye on the waste. Operations Oversight caught some spy tech inside a bunch of depleted fuel rods of all things! Probably a competitor trying to learn about our teleporter tech, but still, can't risk our other interests getting out.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[SUBJECT] Janitors?\n[FROM] Dr. ████████████\n[TO] Dr. ███████<>\n\nI've been thinking, where do they get all these janitors from? We're all top of our fields, the security personnel are all mercs or special forces, but what about the janitors? Is there some janitorial Olympics that qualifies you for this kind of security clearance?\n\nI'd ask, but it's not a good idea to seem nosy around here...",
+            "Item2": ""
+        },
+        {
+            "Item1": "[INTERCEPTED MESSAGE]\n\n[ORIGINAL SENDER: MICHAEL WATSON, ██████████████]\n[INTENDED RECIPIENT: KATE BARLOW]\n<>\nI've already told you about some of the other crazy things they've got me working on, but this one is sketchy as hell.\n\nYou know those health chips they recently unveiled? The ones that hook into your brain stem so you can check your blood pressure and shit? Well, they've got my team working on an attachment for them. It's something that'll let you interface with one wirelessly. Like, directly into someone's brain. I mean, who is this for? Convicts? The military?<>\n\nSo, we had to up the battery capacity, as well as add a wireless transceiver. But the thing is, when I was looking at the specs they gave us, the power budget was insane. If you pinpointed the transmission beam directly at the brain at max output, the radiation could kill you! I brought this up to the project lead, but she told me it wasn't an issue.<>\n\nThe weirdest thing is, I looked into some of the biotelemetry they gave us, and all the subjects they used were less than 5 feet tall. Are they testing these things on children or something? Seems to me that you could use this thing as some sort of remote kill switch. I knew this company did some shady stuff when I applied, but this is getting too weird for me.<>\n\nBut, maybe I'm just overthinking it. What do you think?\nStill, if a position opens up at your place, let me know.\n<>\n>>> FORWARDING INTERCEPTED MESSAGE >>>\n<>\nFROM: Lead Security Officer ████████████████\nTO: Department Head ███████████████<>\n\nThis does not constitute a full breach of security, and the issue's already been dealt with, but I'd like you to release a memo on properly sanitizing data intended to be sent to low clearance employees.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: Braingrow]\n[Dr. ████████]<>\n\nBraingrow, one of the company's most successful products. The neurologists get all the credit, but it would've been impossible without the data. \n\nFunnily enough, to learn how to repair brain damage, we first had to become experts in creating it. The most straightforward technique was to deprive the subjects of oxygen in order to create a diffuse hypoxic injury. That got us most of the way there, but more localized injuries required some creativity.<>\n\nAt first we opted to introduce their frontal lobe to a hammer, but it was difficult to get consistent results. Engineering made us a hammer swinging rig that standardized our data, however the tissue injuries were irritating to deal with. We switched to the sound cannons they use at the pens for crowd control, but ended up with the first problem again. Not enough control.<>\n\nAfter much ingenuity, the team fine-tuned the weapon until it could disrupt blood vessels on an individual level, allowing us to create a stroke anywhere we wanted. The lesson is, anything is possible with the right testing fodder, and you if don't have it, you've just got to make it.",
+            "Item2": ""
+        },
+        {
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Blood pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst and are leaking a dark fluid. The rest of the body is developing bullae the size of my fist.  Heart rate is 219. Blood pressure is 71/40. Skin is entirely black and oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis and membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, and at first they seemed relieved, but after the first day they began apologizing to the camera for things they first did, and then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology and pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row.  They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed and died.\n\nI would like to repeat this experiment with different group sizes, as well as with and without the camera.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device and told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them.  It lights up my face and the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lights in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the light from the screen. I'll continue this when the lights come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lights come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute and wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, and we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day and put something in my arm. It made me feel really, really good, but then it stopped and I felt like I was dying. I hope you give me more tests like that!<>",
+            "Item2": ""
+        },
+        {
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in and take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, and I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, and sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days and nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" and apparently it's really big. The lights come on and off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[Entry #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight and my number was just called<>\n\ni will write more when i get ba<>\n[END]",
             "Item2": ""
         }
     ],
