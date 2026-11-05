@@ -2380,25 +2380,25 @@
         "tutmove13": "非常好。",
         "tutmove14": "揮擊物體同樣也會將你往反方向推。試著幾乎以垂直朝下的方向揮擊登上右邊的牆壁。",
         "tutmove15": "撿起長柄大錘反覆揮擊製造動能。可以透過長柄大錘強大的的反作用力幫助你獲得更大的動能。",
-        "tutmove16": "這次，在起跳的瞬間，用長柄大錘打擊正下方的地面讓你跳得更高。想辦法抵達頂端。",
+        "tutmove16": "這次，在起跳的瞬間，用長柄大錘打擊正下方的地面讓你跳得更高。設法抵達頂端。",
         "tutmove17": "非常好！組合這些技巧可以讓你更有效地在環境中穿梭。可以返回指定房間了。",
         "tutclosehealthpanel": "關閉健康介面。",
         "tutopenhealthpanel": "開啟健康介面。",
         "tutnice": "很好。",
-		"endsc1": "…您好，#<>。看起來您成功取回了…",
+		"endsc1": "…您好，#<>。看來您成功取回了…",
         "endsc2": "咦…？哼，#<>，請說明一下。那個物體…怎麼會插在你的肚子裡面？",
         "endsc3": "…好。這個嘛…這樣的確稍稍偏離了我們本來計畫好的…不管怎樣…",
-        "endsc4": "你真是立了一個無比巨大的功勞，我們需要對你進行進一步的研究。容我說明接下來的安排…",
-        "endsc5": "我先申明，我們會留你一命。不過，我們必須先檢查你的身體與心理狀態。以後你能隨意在設施中活動，也不必再參與未來的常態測試。",
-        "endsc6": "未來更多福利另可再議…",
-        "endsc7": "…至於那個物體…必須讓我們好好研究一番。不論方法為何，都必須將它從你的身體裡面移除。",
-        "endsc8": "現在呢…你有任何疑問嗎？我們希望能盡快展開接下來的事宜。",
-        "endsc9": "…那太好了。首先，你的身體必須進行密切的檢查。請通過右手邊那扇門。",
+        "endsc4": "你真的是立了一個大功，我們需要對你進行進一步的研究。容我說明今後的安排…",
+        "endsc5": "我先申明，我們會留你一命。不過，我們必須先檢查你的身體與心理狀態。以後你能在設施內隨意活動，也不必再參與未來的常態測試。",
+        "endsc6": "後續更多福利可再另行研擬…",
+        "endsc7": "…至於那個物體…必須讓我們好好研究研究。我們不計手段也得將它從你的體內移除。",
+        "endsc8": "現在…有任何疑問嗎？我們希望能盡快展開接下來的事宜。",
+        "endsc9": "…那太好了。首先，你的身體必須進行縝密的檢查。請通過右手邊那扇門。",
         "endsc10": "你在等什麼呢？請通過右手邊那扇門。",
         "endsc11": "你後面那扇門。請走進去。",
         "endsc12": "我們不能一直這樣耗。麻煩你，通過右手邊那扇門。",
-        "endsc13": "唉。怎麼每次都讓我接觸這種不聽話的…？",
-        "escapealert": "現場所有人員請注意。發生 W-2 類別事件。全體保全人員全副武裝。情況解除前請保持鎮定不驚慌。",
+        "endsc13": "唉。我怎麼老是碰上這種頑劣的傢伙…？",
+        "escapealert": "現場所有人員請注意。發生 W-2 類別事件。全體保全人員全副武裝。情況解除前請保持鎮定勿驚慌。",
         "cargosurgery1": "快啊。我得在我的肚子注射麻醉劑。",
         "cargosurgery2": "警衛要趕來了。我得使用那一大台手術裝置。",
         "cargosurgery3": "我得把夾具放到標記位置上。",
@@ -4233,13 +4233,13 @@
                 "（機會來了…要是…要是我有槍，或什麼能用的…）"
             ],
             "labthink2": [
-                "（我能…宰了那傢伙。再來打壞天花板上那挺槍…再來穿過柵欄。逃出去…？）"
+                "（我可以…宰了那傢伙。再來打壞天花板上那挺槍…再來穿過柵欄。逃出去…？）"
             ],
             "labthink2chip": [
-                "（我能…不對。他們能用晶片殺了我。可惡。）"
+                "（我可以…不對。他們能用晶片殺了我。可惡。）"
             ],
             "labshoot": [
-                "嚇啊啊啊啊啊！幹你娘咧！我才不要繼續乖乖讓你為所欲為咧！"
+                "啊啊啊──！你娘機掰咧！真的是受夠你們這些狗屁了！"
             ],
             "labcommentcalm": [
                 "哼呵…啊…他們完了…",
@@ -4255,15 +4255,15 @@
             ],
             "labcommentcombat": [
                 "幹你媽啦！幹！窩囊廢！人渣東西！",
-                "我要來好好欣賞你們失去那條狗命的樣子！",
+                "讓我來欣賞你們死不瞑目的那副蠢樣！",
                 "去死啦！",
                 "這堆狗屁就到此為止吧！",
                 "老子不陪你們扮家家酒了！",
-                "咿呀啊啊啊啊啊！",
+                "咿呀啊啊啊──！",
                 "你以為你算哪根蔥啊！？",
-                "沒人鳥你這廢物！",
-                "我一個一個找你們算帳！！",
-                "我要好好跟你們奉陪到底！",
+                "你死了沒人會鳥你這個廢物！",
+                "我要一個一個找你們算帳！！",
+                "我要跟你們奉陪到底！",
                 "垃圾！衣冠禽獸！",
                 "受死吧！！！"
             ],
@@ -4271,7 +4271,7 @@
                 "欸嗯…你還好吧…？"
             ],
             "vomitbloodresponse": [
-                "哎呀！你那是…喔…嘿，你知道你剛剛…吐了血嗎？"
+                "哎呀！你那是…喔…嘿，你知道你剛剛…吐血了嗎？"
             ],
             "hungryresponse": [
                 "你知道，外面食物可多著呢…",
@@ -5070,7 +5070,7 @@
                 "總算，我找到…咦…怎麼…？"
             ],
             "cargoimpale": [
-                "這…完全不在…我的預想範圍內…"
+                "這…完全…不在我的預料範圍內…"
             ],
             "cargoimpale2": [
                 "呃啊…這…這真的…插進去了…不過…好舒服…"
@@ -5094,51 +5094,51 @@
                 "……*嘆氣*"
             ],
 			"endpodexamine": [
-                "It is unpowered. I likely would be able to start it with medium effort."
+                "沒有電。花點心思大概就能讓它運作起來。"
             ],
             "ascententer": [
-                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+                "鑽探艙停止運作了。該徒步向上了。上面只剩一點點距離。"
             ],
             "labenter": [
-                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+                "（我滿懷著對那些白袍的憎恨…但是時機尚未成熟。我必須先沉住氣。）"
             ],
             "labresponse": [
-                "(...Huh. That was NOT part of their plan?)"
+                "（…哼。這不在他們的計畫之中？）"
             ],
             "labthink1": [
-                "(The time is now. They will not see it coming.)"
+                "（時候到了。他們絕對料不到的。）"
             ],
             "labthink2": [
-                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+                "（斃了白袍。癱瘓炮塔。穿越柵欄。這不是件輕鬆事，但是休想要我繼續為這群怪物百依百順的。）"
             ],
             "labthink2chip": [
-                "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
+                "（先斃了白袍……不對。有這晶片在，我壓根無法跟他們硬碰硬。我失敗了。對他們而言，我成功了。）"
             ],
             "labshoot": [
-                "TO HELL WITH YOU!!! YOU WILL PAY FOR WHAT YOU'VE DONE!!!"
+                "下地獄去吧！！該為自己的惡行惡狀付出代價了！！"
             ],
             "labcommentcalm": [
-                "They will...pay...",
-                "No more games.",
-                "Go hell with everyone involved...",
-                "..Grrhh...",
-                "(I'm taking my freedom.)",
-                "They all deserve this.",
-                "(I'm scared.)",
-                "Ggh...dipshits...",
-                "(No one will miss them when they're gone.)"
+                "他們必須…付出代價…",
+                "不跟他們玩了。",
+                "所有相關人士都給我下地獄去…",
+                "…呃啊…",
+                "（我要奪回屬於我的自由。）",
+                "他們全都不得好死。",
+                "（我很怕。）",
+                "啊呃…一無是處的敗類…",
+                "（沒人會想念他們的。）"
             ],
             "labcommentcombat": [
-                "NNGRRAAHHH! DIE!",
-                "TO HELL WITH ALL OF YOU!!!",
-                "YOU'RE GOING DOWN WITH ME!!",
-                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
-                "CALL FOR BACKUP!! I DARE YOU!!",
-                "I WILL FUCKING DEVOUR YOU!!",
-                "DIE!!",
-                "SCREAM FOR HELP!!! COME ON!!",
-                "YOU THINK YOU CAN STOP ME!?",
-                "YOUR TIME HAS COME!!"
+                "呃啊啊啊啊！死吧！",
+                "通通下地獄吧！！",
+                "我就跟你們奉陪到底啊！",
+                "已經讓你們高枕無憂太久了！",
+                "叫支援啊！放馬過來啊！",
+                "我他媽的要把你宰來吃了！",
+                "受死吧！",
+                "去啊！大聲求饒喊救命啊！",
+                "你覺得你擋得了我！？",
+                "你們的死期到了！"
             ],
             "tradermeetnormal": [
                 "向您問候。",
@@ -5902,22 +5902,22 @@
                 "嗚哼！DUNE 新的聲音？吼喔…"
             ],
 			"wwmr": [
-                "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
+                "哦哦…亮亮的…地方…DUNE 靠近了嗎…？"
             ],
             "cargo1": [
-                "Du-ne see... Thin-g..."
+                "DUNE 看到了…東東…"
             ],
             "cargo2": [
-                "Foo-d...? Hhoooohhhh....hhhooh..?"
+                "吃的…？哦哦哦哦哦…哦哦…？"
             ],
             "cargoimpale": [
-                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+                "嘎啊啊啊啊啊啊啊啊啊啊！！！嚇啊啊啊啊啊啊！！"
             ],
             "cargoimpale2": [
-                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+                "嘎嘎啊啊啊啊……哼…哼嗯…？"
             ],
             "cargoimpale3": [
-                "Hhr...n..mmm...du-ne can lea-ve..."
+                "呼…哼…DUNE 能走了…"
             ],
             "endlessloop0": [
                 "…嗯哼哼…嗯呃……又來了？"
@@ -5935,43 +5935,43 @@
                 "嗯呃！咿！DUNE 贏了！"
             ],
 			"endpodexamine": [
-                "Lea-ve ti-me?"
+                "要走了？"
             ],
             "ascententer": [
-                "Oooo! Re-d..."
+                "喔！紅色…"
             ],
             "labenter": [
-                "(Du-ne back ho-me... Du-ne care-ful...)"
+                "（DUNE 要回家…DUNE 要小心…）"
             ],
             "labresponse": [
-                "No-t kno-w."
+                "不懂。"
             ],
             "labthink1": [
-                "(Hungry...)"
+                "（餓了…）"
             ],
             "labthink2": [
-                "(Du-ne see food. Du-ne get. Du-ne lea-ve.)"
+                "（DUNE 看到吃的。DUNE 要拿到手。DUNE 要離開。）"
             ],
             "labthink2chip": [
-                "(Du-ne not get food. Du-ne sad.)"
+                "（DUNE 拿不到吃的。DUNE 好難過。）"
             ],
             "labshoot": [
-                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+                "哼啊啊啊嘎啊啊啊啊！！！嘎啊啊啊啊啊！！嚇啊啊啊啊啊啊！！"
             ],
             "labcommentcalm": [
-                "Grrhh....ngrhhr...",
-                "Ngrrhhh...",
-                "Food...food...come...",
-                "Du-ne...kill...all...",
-                "Fee-st...co-me..."
+                "呃啊啊…哼啊…",
+                "哼呃呃呃…",
+                "食物…食物…給我來…",
+                "DUNE…通通…殺掉…",
+                "吃…大餐…"
             ],
             "labcommentcombat": [
-                "NNGRRAAHHHHH!",
-                "GGRAAGHHH! GRRRRRHHH!!!",
-                "NNRRUUAAAAARRGHHHH!!",
-                "DE-ATH CO-ME!!!",
-                "CO-ME TO DU-NE!!!",
-                "DU-NE FE-AST ON F-LESH!!!"
+                "嗯啊啊啊啊啊！",
+                "嘎啊啊啊啊啊！啊啊啊啊！！",
+                "哼哼啊啊啊啊啊啊！！",
+                "過來死掉！！！",
+                "過來找 DUNE！！",
+                "DUNE 要大吃特吃肉肉！！"
             ],
             "tradermeetnormal": [
                 "嗯…你…好…",
@@ -6942,25 +6942,25 @@
 			"哎呀，真是可憐的東西。"
 			],
 			"cargoembedded": [
-            "Well done.",
-            "Took you long enough.",
-            "This is not a race, but do hurry.",
-            "Ready to start taking this seriously?",
-            "I suppose miracles do happen."
+            "幹得漂亮。",
+            "給你弄了那麼久。",
+            "這不是在賽跑，但請你快一點。",
+            "準備好認真一點了嗎？",
+            "看樣子奇蹟是會發生的。"
 			],
 			"labescape": [
-            "Show them what you're made of.",
-            "See if it makes a difference.",
-            "Do you believe this will change your fate?",
-            "I am still here.",
-            "Keep going. What else can you do?",
-            "How interesting. Please continue.",
-            "An amusing display of emotion.",
-            "Fascinating. Continue.",
-            "What an amusing attempt. Continue!",
-            "Come on, keep going!",
-            "Doesn't it feel amazing?",
-            "Aren't you so proud of yourself?"
+            "給他們看看你的真本領。",
+            "看看那能不能帶來點變化。",
+            "你相信這能改寫你的命運嗎？",
+            "我還在喔。",
+            "繼續。不然你還能幹嘛？",
+            "真有意思。請繼續。",
+            "真是有趣的神情表現。",
+            "有意思。繼續。",
+            "真是有趣的嘗試。繼續！",
+            "好了啦，繼續！",
+            "不覺得這樣很棒嗎？",
+            "不覺得很自豪嗎？"
 			],
 			"combat": [
 			"看起來你玩得挺盡興的。",
