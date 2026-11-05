@@ -331,9 +331,9 @@
         "scarfdsc": "毛茸茸又溫暖的紅色圍巾，有一定程度的抗寒效果。圍上了會感覺像個傭兵…",
 		"mercscarf": "M.E.R.C. 圍巾",
         "mercscarfdsc": "透過內建晶片提供使用者強大的力量。需要特殊的能量來源且需要好一段時間充電…你必須帶著它活著逃出這座洞穴。",
-        "regenerationchip": "REL-強效-再生強化晶片",
+        "regenerationchip": "REL-高效-再生促進晶片",
         "regenerationchipdsc": "一枚能以提升代謝速率為代價大幅強化使用者傷口癒合能力的先進身體晶片。需要到很久之後才可以使用。",
-        "capacitorchip": "微型-單充-單放-電容",
+        "capacitorchip": "微型-單充-單放電容",
         "capacitorchipdsc": "一個可以在極短時間內儲存並釋放強大能量的先進奈米電池。需要到很久之後才可以使用。",
         "swapchip": "0.2.9-意識移轉晶片",
         "swapchipdsc": "一枚連接在身上能在使用者死亡後迅速輸入意識並移轉至其他意識容器的神祕身體晶片。需要到很久之後才可以使用。",
@@ -1560,9 +1560,9 @@
         "char2quirks": "[水棲] - 你能在水下呼吸，也傾向在水中睡眠。\n[體表無毛] - 體表缺乏毛髮使你更無法應付環境溫度變化。你的身體乾得更快。地下水或其他液體能夠穩定你的體溫。\n[同類相食] - 你可以食用生肉，且破壞屍體對你不會造成心理影響。你對食物中毒幾乎免疫。\n[肉食性] - 食用果物會立刻引發嘔吐。\n[腦袋長肌肉] - 腦袋空空身體壯壯。智慧經驗值一律減半。.\n[缺乏同理心] - 情緒起伏減少三分之一。你無法擁抱或議價。你覺得殺人沒什麼大不了的。\n[甲殼] - 甲殼結構幫助你抵禦創傷。",
         "characterunlock": "[存取遭拒]",
         "characterunlockdsc": "以上一個角色通關解鎖",
-        "presetnormal": "艱難",
+        "presetnormal": "艱困",
         "presetnormaldsc": "預設遊戲體驗。失誤的懲罰相當嚴峻，知識和隨機應變能力相當重要。時間有限。",
-        "presetrelaxed": "放鬆",
+        "presetrelaxed": "寬鬆",
         "presetrelaxeddsc": "不那麼高壓的體驗。失誤的懲罰仍然嚴峻，但相對容易避免。有更多的時間來探索並瞭解周遭環境。",
         "presetparadise": "世外桃源",
         "presetparadisedsc": "這洞穴比實驗室好多了。失誤帶來的影響較小，物資更多，也更容易碰上其他同伴。幾乎沒有威脅與時間壓力。",
@@ -2385,27 +2385,27 @@
         "tutclosehealthpanel": "關閉健康介面。",
         "tutopenhealthpanel": "開啟健康介面。",
         "tutnice": "很好。",
-		"endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
-        "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
-        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
-        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
-        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
-        "endsc6": "We may discuss additional benefits later down the line...",
-        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
-        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
-        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
-        "endsc10": "What's the hold up? Please proceed through the door to your right.",
-        "endsc11": "The door behind you. Go through it.",
-        "endsc12": "We don't have all day. Come on. Door to your right.",
-        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
-        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
-        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
-        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
-        "cargosurgery3": "I need to put these clamps into the marked spots.",
-        "cargosurgery4": "I need to pull the cargo out of body.",
-        "cargosurgery5": "I need to put these tubes over the wound.",
-        "cargosurgery6": "I need to go.",
-        "endsctip": "Get your shit together. I need to murder him. Now.",
+		"endsc1": "…您好，#<>。看起來您成功取回了…",
+        "endsc2": "咦…？哼，#<>，請說明一下。那個物體…怎麼會插在你的肚子裡面？",
+        "endsc3": "…好。這個嘛…這樣的確稍稍偏離了我們本來計畫好的…不管怎樣…",
+        "endsc4": "你真是立了一個無比巨大的功勞，我們需要對你進行進一步的研究。容我說明接下來的安排…",
+        "endsc5": "我先申明，我們會留你一命。不過，我們必須先檢查你的身體與心理狀態。以後你能隨意在設施中活動，也不必再參與未來的常態測試。",
+        "endsc6": "未來更多福利另可再議…",
+        "endsc7": "…至於那個物體…必須讓我們好好研究一番。不論方法為何，都必須將它從你的身體裡面移除。",
+        "endsc8": "現在呢…你有任何疑問嗎？我們希望能盡快展開接下來的事宜。",
+        "endsc9": "…那太好了。首先，你的身體必須進行密切的檢查。請通過右手邊那扇門。",
+        "endsc10": "你在等什麼呢？請通過右手邊那扇門。",
+        "endsc11": "你後面那扇門。請走進去。",
+        "endsc12": "我們不能一直這樣耗。麻煩你，通過右手邊那扇門。",
+        "endsc13": "唉。怎麼每次都讓我接觸這種不聽話的…？",
+        "escapealert": "現場所有人員請注意。發生 W-2 類別事件。全體保全人員全副武裝。情況解除前請保持鎮定不驚慌。",
+        "cargosurgery1": "快啊。我得在我的肚子注射麻醉劑。",
+        "cargosurgery2": "警衛要趕來了。我得使用那一大台手術裝置。",
+        "cargosurgery3": "我得把夾具放到標記位置上。",
+        "cargosurgery4": "我必須把貨物移出我的身體。",
+        "cargosurgery5": "我要把這些管子放到傷口上。",
+        "cargosurgery6": "我必須走了。",
+        "endsctip": "給我振作點。我必須馬上宰了那傢伙。",
         "outdatedwarning": "<size=200%>嘿！<size=100%>\n所選的語言檔已過期。有些文字可能無法顯示。\n嘗試切換成英文或找到更新版本的語言檔。",
 		"surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
         "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
@@ -4188,19 +4188,19 @@
                 "我到了…我成功到了…？哼…應該就在附近了…該做個了結了。"
             ],
 			"cargo1": [
-                "I... I think this... Is... it..?"
+                "好…好像就是…這個…？"
             ],
             "cargo2": [
-                "That... Is not a batt....wh... W-what's it... Doing..?"
+                "這…不像是電池啊…咦…這是怎樣…這是在幹什麼…？"
             ],
             "cargoimpale": [
-                "AAAGHH! WHAT THE HELL!? WHY?"
+                "哇啊啊啊！怎麼搞的？為甚麼？"
             ],
             "cargoimpale2": [
-                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+                "哼…好…我…我覺得…它在給我力量…？身體…好像輕盈多了。"
             ],
             "cargoimpale3": [
-                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
+                "我…我真的成功了…好…我…別掉以輕心…我想我能用那台鑽探艙回去。朝地面出發吧。"
             ],
             "endlessloop0": [
                 "…什…什麼…？什麼？為什麼？這是…我怎麼回到這裡了…？哼…到底怎麼回事…"
@@ -4209,7 +4209,7 @@
                 "…這跟我希望的不一樣…我不知道我還能怎麼辦…好吧。哎。就先當作無三不成禮？"
             ],
             "endlessloop2": [
-                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
+                "呃呃啊啊！底是是要我怎樣！？可惡…那顆可惡的心臟…呃啊…我想活只能繼續向下了。到底是在搞什麼。"
             ],
             "endlessloop3": [
                 "好了！我走不出去的，而且好像…我覺得我好像開始習慣了。"
@@ -4218,54 +4218,54 @@
                 "喔，繼續兜圈子囉…"
 				],
             "endpodexamine": [
-                "C-cargo... First..."
+                "貨物…優先…"
             ],
             "ascententer": [
-                "Looks like thats as far as it'll go... The only way's up. Let's go."
+                "看來這只能走到這裡了…只能往上了。走吧。"
             ],
             "labenter": [
-                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+                "（我暫時先好好配合…跟他們硬碰硬是會賠上小命的。也許我能逮到一個機會…）"
             ],
             "labresponse": [
-                "(...Like hell I'm talking to them. Not after...that.)"
+                "（…發神經才會找他們談。況且…事已至此。)"
             ],
             "labthink1": [
-                "(This is the moment... If... If I had a gun, or something...)"
+                "（機會來了…要是…要是我有槍，或什麼能用的…）"
             ],
             "labthink2": [
-                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+                "（我能…宰了那傢伙。再來打壞天花板上那挺槍…再來穿過柵欄。逃出去…？）"
             ],
             "labthink2chip": [
-                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+                "（我能…不對。他們能用晶片殺了我。可惡。）"
             ],
             "labshoot": [
-                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+                "嚇啊啊啊啊啊！幹你娘咧！我才不要繼續乖乖讓你為所欲為咧！"
             ],
             "labcommentcalm": [
-                "Nghh... Grrh... They'll pay...",
-                "They'll pay for this...",
-                "Sufffer...the consequences...",
-                "So done. With. This. SHIT!",
-                "Go to hell. Go to hell. All of you...",
-                "It's the end.",
-                "Fuckers. Fuckers. Fuckers. Dipshits.",
-                "No one will care when they go missing.",
-                "(Nothing can stop me.)",
-                "Win stupid fucking prizes..."
+                "哼呵…啊…他們完了…",
+                "他們通通都完了…",
+                "好好嘗嘗…自己種下的惡果…",
+                "受夠了。真他媽的。受夠了！",
+                "下地獄吧。下地獄吧。通通納命來…",
+                "要做個了斷了。",
+                "人渣敗類。人渣敗類。人渣敗類。媽的一堆垃圾。",
+                "沒人會在意他們的死活。",
+                "（什麼都別想阻止我。）",
+                "都是你們自找的…"
             ],
             "labcommentcombat": [
-                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
-                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
-                "TO HELL WITH YOU!!!",
-                "NO MORE OF THIS SHIT!!",
-                "I'M DONE WITH THESE GAMES!!",
-                "GRRRAAHHHHH!!",
-                "WHO DO YOU THINK YOU FUCKING ARE!?",
-                "NO ONE WILL REMEMBER YOU!!",
-                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
-                "I'M NOT GOING DOWN!!",
-                "YOU COATED FUCKS!!",
-                "GO TO HELL!!!!"
+                "幹你媽啦！幹！窩囊廢！人渣東西！",
+                "我要來好好欣賞你們失去那條狗命的樣子！",
+                "去死啦！",
+                "這堆狗屁就到此為止吧！",
+                "老子不陪你們扮家家酒了！",
+                "咿呀啊啊啊啊啊！",
+                "你以為你算哪根蔥啊！？",
+                "沒人鳥你這廢物！",
+                "我一個一個找你們算帳！！",
+                "我要好好跟你們奉陪到底！",
+                "垃圾！衣冠禽獸！",
+                "受死吧！！！"
             ],
             "vomitresponse": [
                 "欸嗯…你還好吧…？"
@@ -5061,22 +5061,22 @@
                 "有嗶聲。這意味著？"
             ],
 			"wwmr": [
-                "All according to plan. It appears the objective is within reach. I must focus."
+                "盡在計畫之中。看樣子離目標是近了。我得保持專注。"
             ],
             "cargo1": [
-                "...Odd."
+                "…怪了。"
             ],
             "cargo2": [
-                "At long last, I have... H-H... What..?"
+                "總算，我找到…咦…怎麼…？"
             ],
             "cargoimpale": [
-                "T-this... Was... Not in my... L-list of expectations..."
+                "這…完全不在…我的預想範圍內…"
             ],
             "cargoimpale2": [
-                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+                "呃啊…這…這真的…插進去了…不過…好舒服…"
             ],
             "cargoimpale3": [
-                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+                "哼。專注。很好。這絕對還在計畫之中。我該搭乘鑽探艙往返了。"
             ],
             "endlessloop0": [
                 "…哼。哼嗯…嗯唔…哼唔…好喔。跟…跟我料想的，差很多。一定是我弄錯什麼了吧。我要再回去試一次。"
@@ -5653,7 +5653,7 @@
                 "嘎呃呃…"
             ],
             "cold": [
-                "DUNE 冷冷！要暖暖…",
+                "DUNE 冷冷！要泡水…",
                 "DUNE 冰冰…",
                 "DUNE 不喜歡冷。",
                 "不喜歡冷。"
