@@ -1,7 +1,7 @@
 {
     "name": "繁體中文",
     "description": "這是一個<color=\"blue\">黑蘚Black_Moss</color>以<color=\"red\">簡體中文本地化</color>，使用工具轉換出來的<color=\"red\">繁體中文本地化</color>，由<color=\"yellow\">吃吃Rar</color>與<color=\"yellow\">Plazehorta</color>進一步大量翻譯修訂。\n\n請盡情遊玩！",
-    "version": "1.0",
+    "version": "1.0.0",
     "main": {
         "bandage": "繃帶",
         "bandagedsc": "一捲醫療繃帶。可減緩出血、固定骨折並幫助傷口癒合。對肌肉健康值無效。",
@@ -2061,8 +2061,8 @@
         "alertnanotechfail": "<color=\"red\">文字難以理解…\n要不要之後再試試？",
         "alertnanotechrepeat": "這已經讀過了。保持掃描器開機注意任何訊號。",
         "nanotechdepth": "在此深度偵測到奈米科技簽章！",
-        "nanotechdepthinitialleft": "區域中偵測到奈米科技特徵，位於左側…",
-        "nanotechdepthinitialright": "區域中偵測到奈米科技特徵，位於右側…",
+        "nanotechdepthinitialleft": "區域中偵測到奈米科技特徵，位於左側，<> 外",
+        "nanotechdepthinitialright": "區域中偵測到奈米科技特徵，位於右側，<> 外",
         "insertsample": "放入樣本",
         "tradeinteract": "交易",
         "read": "閱讀",
@@ -4202,6 +4202,9 @@
             "cargoimpale3": [
                 "我…我真的成功了…好…我…別掉以輕心…我想我能用那台鑽探艙回去。朝地面出發吧。"
             ],
+			"wwmrwrongway": [
+                "我覺得這個方向錯邊了…我應該朝那些奇怪的脈動來源方向前進…"
+            ],
             "endlessloop0": [
                 "…什…什麼…？什麼？為什麼？這是…我怎麼回到這裡了…？哼…到底怎麼回事…"
             ],
@@ -5078,6 +5081,9 @@
             "cargoimpale3": [
                 "哼。專注。很好。這絕對還在計畫之中。我該搭乘鑽探艙往返了。"
             ],
+			"wwmrwrongway": [
+                "我肯定是走錯方向了。我必須朝脈動源頭前進。"
+            ],
             "endlessloop0": [
                 "…哼。哼嗯…嗯唔…哼唔…好喔。跟…跟我料想的，差很多。一定是我弄錯什麼了吧。我要再回去試一次。"
             ],
@@ -5918,6 +5924,9 @@
             ],
             "cargoimpale3": [
                 "呼…哼…DUNE 能走了…"
+            ],
+			"wwmrwrongway": [
+                "DUNE…傻傻的。錯邊了。"
             ],
             "endlessloop0": [
                 "…嗯哼哼…嗯呃……又來了？"
