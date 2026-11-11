@@ -1,7 +1,7 @@
 {
     "name": "繁體中文",
     "description": "這是一個<color=\"blue\">黑蘚Black_Moss</color>以<color=\"red\">簡體中文本地化</color>，使用工具轉換出來的<color=\"red\">繁體中文本地化</color>，由<color=\"yellow\">吃吃Rar</color>與<color=\"yellow\">Plazehorta</color>進一步大量翻譯修訂。\n\n請盡情遊玩！",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": {
         "bandage": "繃帶",
         "bandagedsc": "一捲醫療繃帶。可減緩出血、固定骨折並幫助傷口癒合。對肌肉健康值無效。",
